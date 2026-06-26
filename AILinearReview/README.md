@@ -100,11 +100,16 @@ For licensing and redistribution reasons, this repository does not include the o
 If you use this repository, please cite the accompanying manuscript:
 
 ```text
-An Exam-Syllabus-Driven Methodological Framework for Adaptive Linear Algebra Review:
-A Closed-Loop Architecture with Dialogue Agents and IRT-Based Difficulty Adaptation.
+waiting for accept
 ```
 
 ## License
 
 Code and documentation in this repository are released under the MIT License. The manuscript text is not included in this repository. External educational materials remain subject to the licenses and permissions of their original sources.
+
+## Contact
+
+```text
+waiting for details
+```
 
