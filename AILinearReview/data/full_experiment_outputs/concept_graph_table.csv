@@ -1,0 +1,17 @@
+id,label,unit,aliases,syllabus_weight,benchmark_support
+linear_systems,Linear systems,U1,"['linear system', 'system of equations', 'Ax=b', 'solution set']",6.0,19
+row_reduction,Row reduction,U1,"['row reduction', 'echelon', 'rref', 'pivot', 'Gaussian elimination']",6.5,21
+rank,Rank,U2,"['rank', 'pivot rank']",12.4,38
+nullspace,Nullspace,U2,"['nullspace', 'null space', 'kernel', 'N(A)', 'free variable']",14.4,45
+column_space,Column space,U2,"['column space', 'range', 'image', 'C(A)']",13.5,42
+basis_dimension,Basis and dimension,U2,"['basis', 'dimension', 'span', 'linearly independent', 'independence']",23.85,74
+linear_maps,Linear maps,U3,"['linear map', 'linear transformation', 'kernel', 'image']",6.95,20
+change_of_basis,Change of basis,U3,"['change of basis', 'coordinate', 'representation', 'similar']",8.2,25
+determinants,Determinants,U4,"['determinant', 'det', 'cofactor', 'Cramer', 'volume']",12.75,41
+eigenvalues,Eigenvalues and eigenvectors,U5,"['eigenvalue', 'eigenvector', 'eigenspace', 'characteristic polynomial', 'lambda']",19.05,61
+diagonalization,Diagonalization,U5,"['diagonalize', 'diagonalizable', 'diagonalization', 'geometric multiplicity', 'algebraic multiplicity']",5.95,17
+orthogonality,Orthogonality,U6,"['orthogonal', 'orthonormal', 'inner product', 'dot product', 'Gram-Schmidt', 'QR']",12.9,43
+projection,Projection,U6,"['projection', 'project', 'orthogonal projection', 'closest vector']",10.0,33
+least_squares,Least squares,U6,"['least squares', 'normal equations', 'best approximation']",4.2,14
+positive_definite,Positive definite matrices,U6,"['positive definite', 'symmetric', 'quadratic form']",7.8,26
+svd,Singular value decomposition,U6,"['SVD', 'singular value', 'singular vector']",6.0,20

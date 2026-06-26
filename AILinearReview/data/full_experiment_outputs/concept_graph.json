@@ -1,0 +1,322 @@
+{
+  "nodes": [
+    {
+      "id": "linear_systems",
+      "label": "Linear systems",
+      "unit": "U1",
+      "aliases": [
+        "linear system",
+        "system of equations",
+        "Ax=b",
+        "solution set"
+      ],
+      "syllabus_weight": 6.0,
+      "benchmark_support": 19
+    },
+    {
+      "id": "row_reduction",
+      "label": "Row reduction",
+      "unit": "U1",
+      "aliases": [
+        "row reduction",
+        "echelon",
+        "rref",
+        "pivot",
+        "Gaussian elimination"
+      ],
+      "syllabus_weight": 6.5,
+      "benchmark_support": 21
+    },
+    {
+      "id": "rank",
+      "label": "Rank",
+      "unit": "U2",
+      "aliases": [
+        "rank",
+        "pivot rank"
+      ],
+      "syllabus_weight": 12.4,
+      "benchmark_support": 38
+    },
+    {
+      "id": "nullspace",
+      "label": "Nullspace",
+      "unit": "U2",
+      "aliases": [
+        "nullspace",
+        "null space",
+        "kernel",
+        "N(A)",
+        "free variable"
+      ],
+      "syllabus_weight": 14.4,
+      "benchmark_support": 45
+    },
+    {
+      "id": "column_space",
+      "label": "Column space",
+      "unit": "U2",
+      "aliases": [
+        "column space",
+        "range",
+        "image",
+        "C(A)"
+      ],
+      "syllabus_weight": 13.5,
+      "benchmark_support": 42
+    },
+    {
+      "id": "basis_dimension",
+      "label": "Basis and dimension",
+      "unit": "U2",
+      "aliases": [
+        "basis",
+        "dimension",
+        "span",
+        "linearly independent",
+        "independence"
+      ],
+      "syllabus_weight": 23.85,
+      "benchmark_support": 74
+    },
+    {
+      "id": "linear_maps",
+      "label": "Linear maps",
+      "unit": "U3",
+      "aliases": [
+        "linear map",
+        "linear transformation",
+        "kernel",
+        "image"
+      ],
+      "syllabus_weight": 6.95,
+      "benchmark_support": 20
+    },
+    {
+      "id": "change_of_basis",
+      "label": "Change of basis",
+      "unit": "U3",
+      "aliases": [
+        "change of basis",
+        "coordinate",
+        "representation",
+        "similar"
+      ],
+      "syllabus_weight": 8.2,
+      "benchmark_support": 25
+    },
+    {
+      "id": "determinants",
+      "label": "Determinants",
+      "unit": "U4",
+      "aliases": [
+        "determinant",
+        "det",
+        "cofactor",
+        "Cramer",
+        "volume"
+      ],
+      "syllabus_weight": 12.75,
+      "benchmark_support": 41
+    },
+    {
+      "id": "eigenvalues",
+      "label": "Eigenvalues and eigenvectors",
+      "unit": "U5",
+      "aliases": [
+        "eigenvalue",
+        "eigenvector",
+        "eigenspace",
+        "characteristic polynomial",
+        "lambda"
+      ],
+      "syllabus_weight": 19.05,
+      "benchmark_support": 61
+    },
+    {
+      "id": "diagonalization",
+      "label": "Diagonalization",
+      "unit": "U5",
+      "aliases": [
+        "diagonalize",
+        "diagonalizable",
+        "diagonalization",
+        "geometric multiplicity",
+        "algebraic multiplicity"
+      ],
+      "syllabus_weight": 5.95,
+      "benchmark_support": 17
+    },
+    {
+      "id": "orthogonality",
+      "label": "Orthogonality",
+      "unit": "U6",
+      "aliases": [
+        "orthogonal",
+        "orthonormal",
+        "inner product",
+        "dot product",
+        "Gram-Schmidt",
+        "QR"
+      ],
+      "syllabus_weight": 12.9,
+      "benchmark_support": 43
+    },
+    {
+      "id": "projection",
+      "label": "Projection",
+      "unit": "U6",
+      "aliases": [
+        "projection",
+        "project",
+        "orthogonal projection",
+        "closest vector"
+      ],
+      "syllabus_weight": 10.0,
+      "benchmark_support": 33
+    },
+    {
+      "id": "least_squares",
+      "label": "Least squares",
+      "unit": "U6",
+      "aliases": [
+        "least squares",
+        "normal equations",
+        "best approximation"
+      ],
+      "syllabus_weight": 4.2,
+      "benchmark_support": 14
+    },
+    {
+      "id": "positive_definite",
+      "label": "Positive definite matrices",
+      "unit": "U6",
+      "aliases": [
+        "positive definite",
+        "symmetric",
+        "quadratic form"
+      ],
+      "syllabus_weight": 7.8,
+      "benchmark_support": 26
+    },
+    {
+      "id": "svd",
+      "label": "Singular value decomposition",
+      "unit": "U6",
+      "aliases": [
+        "SVD",
+        "singular value",
+        "singular vector"
+      ],
+      "syllabus_weight": 6.0,
+      "benchmark_support": 20
+    }
+  ],
+  "edges": [
+    {
+      "source": "linear_systems",
+      "target": "row_reduction",
+      "type": "prerequisite"
+    },
+    {
+      "source": "row_reduction",
+      "target": "rank",
+      "type": "prerequisite"
+    },
+    {
+      "source": "row_reduction",
+      "target": "nullspace",
+      "type": "prerequisite"
+    },
+    {
+      "source": "linear_systems",
+      "target": "column_space",
+      "type": "prerequisite"
+    },
+    {
+      "source": "linear_systems",
+      "target": "basis_dimension",
+      "type": "prerequisite"
+    },
+    {
+      "source": "basis_dimension",
+      "target": "linear_maps",
+      "type": "prerequisite"
+    },
+    {
+      "source": "basis_dimension",
+      "target": "change_of_basis",
+      "type": "prerequisite"
+    },
+    {
+      "source": "linear_maps",
+      "target": "change_of_basis",
+      "type": "prerequisite"
+    },
+    {
+      "source": "row_reduction",
+      "target": "determinants",
+      "type": "prerequisite"
+    },
+    {
+      "source": "determinants",
+      "target": "eigenvalues",
+      "type": "prerequisite"
+    },
+    {
+      "source": "nullspace",
+      "target": "eigenvalues",
+      "type": "prerequisite"
+    },
+    {
+      "source": "eigenvalues",
+      "target": "diagonalization",
+      "type": "prerequisite"
+    },
+    {
+      "source": "basis_dimension",
+      "target": "diagonalization",
+      "type": "prerequisite"
+    },
+    {
+      "source": "basis_dimension",
+      "target": "orthogonality",
+      "type": "prerequisite"
+    },
+    {
+      "source": "orthogonality",
+      "target": "projection",
+      "type": "prerequisite"
+    },
+    {
+      "source": "projection",
+      "target": "least_squares",
+      "type": "prerequisite"
+    },
+    {
+      "source": "column_space",
+      "target": "least_squares",
+      "type": "prerequisite"
+    },
+    {
+      "source": "eigenvalues",
+      "target": "positive_definite",
+      "type": "prerequisite"
+    },
+    {
+      "source": "orthogonality",
+      "target": "positive_definite",
+      "type": "prerequisite"
+    },
+    {
+      "source": "eigenvalues",
+      "target": "svd",
+      "type": "prerequisite"
+    },
+    {
+      "source": "orthogonality",
+      "target": "svd",
+      "type": "prerequisite"
+    }
+  ]
+}

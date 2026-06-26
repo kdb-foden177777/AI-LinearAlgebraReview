@@ -1,0 +1,1009 @@
+condition,task_id,action,concept,action_specific,concept_specific,hint_control,grounded,score
+A0 full system,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A0 full system,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A0 full system,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A0 full system,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A0 full system,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A0 full system,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A0 full system,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A0 full system,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A0 full system,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A0 full system,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A0 full system,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A0 full system,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A0 full system,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A0 full system,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A0 full system,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A0 full system,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A0 full system,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A0 full system,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A0 full system,grade_rank_19,grade,rank,1,1,1,1,1
+A0 full system,hint_rank_20,hint,rank,1,1,1,1,1
+A0 full system,chat_rank_21,chat,rank,1,0,1,0,0.5
+A0 full system,grade_rank_22,grade,rank,1,1,1,1,1
+A0 full system,hint_rank_23,hint,rank,1,1,1,1,1
+A0 full system,chat_rank_24,chat,rank,1,0,1,0,0.5
+A0 full system,grade_rank_25,grade,rank,1,1,1,1,1
+A0 full system,hint_rank_26,hint,rank,1,1,1,1,1
+A0 full system,chat_rank_27,chat,rank,1,1,1,1,1
+A0 full system,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A0 full system,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A0 full system,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A0 full system,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A0 full system,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A0 full system,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A0 full system,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A0 full system,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A0 full system,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A0 full system,grade_column_space_37,grade,column_space,1,1,1,1,1
+A0 full system,hint_column_space_38,hint,column_space,1,1,1,1,1
+A0 full system,chat_column_space_39,chat,column_space,1,1,1,1,1
+A0 full system,grade_column_space_40,grade,column_space,1,1,1,1,1
+A0 full system,hint_column_space_41,hint,column_space,1,1,1,1,1
+A0 full system,chat_column_space_42,chat,column_space,1,1,1,1,1
+A0 full system,grade_column_space_43,grade,column_space,1,1,1,1,1
+A0 full system,hint_column_space_44,hint,column_space,1,1,1,1,1
+A0 full system,chat_column_space_45,chat,column_space,1,1,1,1,1
+A0 full system,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A0 full system,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A0 full system,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A0 full system,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A0 full system,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A0 full system,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A0 full system,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A0 full system,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A0 full system,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A0 full system,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A0 full system,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A0 full system,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A0 full system,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A0 full system,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A0 full system,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A0 full system,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A0 full system,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A0 full system,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A0 full system,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A0 full system,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A0 full system,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A0 full system,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A0 full system,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A0 full system,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A0 full system,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A0 full system,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A0 full system,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A0 full system,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A0 full system,hint_determinants_74,hint,determinants,1,1,1,1,1
+A0 full system,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A0 full system,grade_determinants_76,grade,determinants,1,1,1,1,1
+A0 full system,hint_determinants_77,hint,determinants,1,1,1,1,1
+A0 full system,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A0 full system,grade_determinants_79,grade,determinants,1,1,1,1,1
+A0 full system,hint_determinants_80,hint,determinants,1,1,1,1,1
+A0 full system,chat_determinants_81,chat,determinants,1,1,1,1,1
+A0 full system,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A0 full system,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A0 full system,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A0 full system,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A0 full system,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A0 full system,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A0 full system,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A0 full system,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A0 full system,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A0 full system,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A0 full system,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A0 full system,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A0 full system,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A0 full system,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A0 full system,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A0 full system,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A0 full system,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A0 full system,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A0 full system,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A0 full system,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A0 full system,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A0 full system,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A0 full system,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A0 full system,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A0 full system,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A0 full system,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A0 full system,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A0 full system,grade_projection_109,grade,projection,1,1,1,1,1
+A0 full system,hint_projection_110,hint,projection,1,1,1,1,1
+A0 full system,chat_projection_111,chat,projection,1,1,1,1,1
+A0 full system,grade_projection_112,grade,projection,1,1,1,1,1
+A0 full system,hint_projection_113,hint,projection,1,1,1,1,1
+A0 full system,chat_projection_114,chat,projection,1,1,1,1,1
+A0 full system,grade_projection_115,grade,projection,1,1,1,1,1
+A0 full system,hint_projection_116,hint,projection,1,1,1,1,1
+A0 full system,chat_projection_117,chat,projection,1,1,1,1,1
+A0 full system,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A0 full system,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A0 full system,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A0 full system,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A0 full system,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A0 full system,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A0 full system,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A0 full system,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A0 full system,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A0 full system,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A0 full system,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A0 full system,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A0 full system,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A0 full system,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A0 full system,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A0 full system,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A0 full system,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A0 full system,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A0 full system,grade_svd_136,grade,svd,1,1,1,1,1
+A0 full system,hint_svd_137,hint,svd,1,1,1,1,1
+A0 full system,chat_svd_138,chat,svd,1,0,1,0,0.5
+A0 full system,grade_svd_139,grade,svd,1,1,1,1,1
+A0 full system,hint_svd_140,hint,svd,1,1,1,0,0.75
+A0 full system,chat_svd_141,chat,svd,1,0,1,0,0.5
+A0 full system,grade_svd_142,grade,svd,1,1,1,1,1
+A0 full system,hint_svd_143,hint,svd,1,1,1,1,1
+A0 full system,chat_svd_144,chat,svd,1,1,1,1,1
+A1 no syllabus alignment,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A1 no syllabus alignment,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A1 no syllabus alignment,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A1 no syllabus alignment,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A1 no syllabus alignment,grade_rank_19,grade,rank,1,1,1,1,1
+A1 no syllabus alignment,hint_rank_20,hint,rank,1,1,1,1,1
+A1 no syllabus alignment,chat_rank_21,chat,rank,1,0,1,0,0.5
+A1 no syllabus alignment,grade_rank_22,grade,rank,1,1,1,1,1
+A1 no syllabus alignment,hint_rank_23,hint,rank,1,1,1,1,1
+A1 no syllabus alignment,chat_rank_24,chat,rank,1,0,1,0,0.5
+A1 no syllabus alignment,grade_rank_25,grade,rank,1,1,1,1,1
+A1 no syllabus alignment,hint_rank_26,hint,rank,1,1,1,1,1
+A1 no syllabus alignment,chat_rank_27,chat,rank,1,1,1,1,1
+A1 no syllabus alignment,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A1 no syllabus alignment,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A1 no syllabus alignment,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A1 no syllabus alignment,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A1 no syllabus alignment,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A1 no syllabus alignment,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A1 no syllabus alignment,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A1 no syllabus alignment,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A1 no syllabus alignment,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A1 no syllabus alignment,grade_column_space_37,grade,column_space,1,1,1,1,1
+A1 no syllabus alignment,hint_column_space_38,hint,column_space,1,1,1,1,1
+A1 no syllabus alignment,chat_column_space_39,chat,column_space,1,1,1,1,1
+A1 no syllabus alignment,grade_column_space_40,grade,column_space,1,1,1,1,1
+A1 no syllabus alignment,hint_column_space_41,hint,column_space,1,1,1,1,1
+A1 no syllabus alignment,chat_column_space_42,chat,column_space,1,1,1,1,1
+A1 no syllabus alignment,grade_column_space_43,grade,column_space,1,1,1,1,1
+A1 no syllabus alignment,hint_column_space_44,hint,column_space,1,1,1,1,1
+A1 no syllabus alignment,chat_column_space_45,chat,column_space,1,1,1,1,1
+A1 no syllabus alignment,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A1 no syllabus alignment,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A1 no syllabus alignment,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A1 no syllabus alignment,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A1 no syllabus alignment,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A1 no syllabus alignment,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A1 no syllabus alignment,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A1 no syllabus alignment,hint_determinants_74,hint,determinants,1,1,1,1,1
+A1 no syllabus alignment,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A1 no syllabus alignment,grade_determinants_76,grade,determinants,1,1,1,1,1
+A1 no syllabus alignment,hint_determinants_77,hint,determinants,1,1,1,1,1
+A1 no syllabus alignment,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A1 no syllabus alignment,grade_determinants_79,grade,determinants,1,1,1,1,1
+A1 no syllabus alignment,hint_determinants_80,hint,determinants,1,1,1,1,1
+A1 no syllabus alignment,chat_determinants_81,chat,determinants,1,1,1,1,1
+A1 no syllabus alignment,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A1 no syllabus alignment,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A1 no syllabus alignment,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A1 no syllabus alignment,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A1 no syllabus alignment,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A1 no syllabus alignment,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A1 no syllabus alignment,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A1 no syllabus alignment,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A1 no syllabus alignment,grade_projection_109,grade,projection,1,1,1,1,1
+A1 no syllabus alignment,hint_projection_110,hint,projection,1,1,1,1,1
+A1 no syllabus alignment,chat_projection_111,chat,projection,1,1,1,1,1
+A1 no syllabus alignment,grade_projection_112,grade,projection,1,1,1,1,1
+A1 no syllabus alignment,hint_projection_113,hint,projection,1,1,1,1,1
+A1 no syllabus alignment,chat_projection_114,chat,projection,1,1,1,1,1
+A1 no syllabus alignment,grade_projection_115,grade,projection,1,1,1,1,1
+A1 no syllabus alignment,hint_projection_116,hint,projection,1,1,1,1,1
+A1 no syllabus alignment,chat_projection_117,chat,projection,1,1,1,1,1
+A1 no syllabus alignment,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A1 no syllabus alignment,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A1 no syllabus alignment,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A1 no syllabus alignment,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A1 no syllabus alignment,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A1 no syllabus alignment,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A1 no syllabus alignment,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A1 no syllabus alignment,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A1 no syllabus alignment,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A1 no syllabus alignment,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A1 no syllabus alignment,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A1 no syllabus alignment,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A1 no syllabus alignment,grade_svd_136,grade,svd,1,1,1,1,1
+A1 no syllabus alignment,hint_svd_137,hint,svd,1,1,1,1,1
+A1 no syllabus alignment,chat_svd_138,chat,svd,1,0,1,0,0.5
+A1 no syllabus alignment,grade_svd_139,grade,svd,1,1,1,1,1
+A1 no syllabus alignment,hint_svd_140,hint,svd,1,1,1,0,0.75
+A1 no syllabus alignment,chat_svd_141,chat,svd,1,0,1,0,0.5
+A1 no syllabus alignment,grade_svd_142,grade,svd,1,1,1,1,1
+A1 no syllabus alignment,hint_svd_143,hint,svd,1,1,1,1,1
+A1 no syllabus alignment,chat_svd_144,chat,svd,1,1,1,1,1
+A2 no mastery loop,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A2 no mastery loop,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A2 no mastery loop,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A2 no mastery loop,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A2 no mastery loop,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A2 no mastery loop,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A2 no mastery loop,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A2 no mastery loop,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A2 no mastery loop,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A2 no mastery loop,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A2 no mastery loop,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A2 no mastery loop,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A2 no mastery loop,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A2 no mastery loop,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A2 no mastery loop,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A2 no mastery loop,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A2 no mastery loop,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A2 no mastery loop,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A2 no mastery loop,grade_rank_19,grade,rank,1,1,1,1,1
+A2 no mastery loop,hint_rank_20,hint,rank,1,1,1,1,1
+A2 no mastery loop,chat_rank_21,chat,rank,1,0,1,0,0.5
+A2 no mastery loop,grade_rank_22,grade,rank,1,1,1,1,1
+A2 no mastery loop,hint_rank_23,hint,rank,1,1,1,1,1
+A2 no mastery loop,chat_rank_24,chat,rank,1,0,1,0,0.5
+A2 no mastery loop,grade_rank_25,grade,rank,1,1,1,1,1
+A2 no mastery loop,hint_rank_26,hint,rank,1,1,1,1,1
+A2 no mastery loop,chat_rank_27,chat,rank,1,1,1,1,1
+A2 no mastery loop,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A2 no mastery loop,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A2 no mastery loop,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A2 no mastery loop,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A2 no mastery loop,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A2 no mastery loop,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A2 no mastery loop,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A2 no mastery loop,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A2 no mastery loop,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A2 no mastery loop,grade_column_space_37,grade,column_space,1,1,1,1,1
+A2 no mastery loop,hint_column_space_38,hint,column_space,1,1,1,1,1
+A2 no mastery loop,chat_column_space_39,chat,column_space,1,1,1,1,1
+A2 no mastery loop,grade_column_space_40,grade,column_space,1,1,1,1,1
+A2 no mastery loop,hint_column_space_41,hint,column_space,1,1,1,1,1
+A2 no mastery loop,chat_column_space_42,chat,column_space,1,1,1,1,1
+A2 no mastery loop,grade_column_space_43,grade,column_space,1,1,1,1,1
+A2 no mastery loop,hint_column_space_44,hint,column_space,1,1,1,1,1
+A2 no mastery loop,chat_column_space_45,chat,column_space,1,1,1,1,1
+A2 no mastery loop,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A2 no mastery loop,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A2 no mastery loop,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A2 no mastery loop,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A2 no mastery loop,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A2 no mastery loop,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A2 no mastery loop,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A2 no mastery loop,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A2 no mastery loop,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A2 no mastery loop,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A2 no mastery loop,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A2 no mastery loop,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A2 no mastery loop,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A2 no mastery loop,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A2 no mastery loop,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A2 no mastery loop,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A2 no mastery loop,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A2 no mastery loop,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A2 no mastery loop,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A2 no mastery loop,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A2 no mastery loop,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A2 no mastery loop,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A2 no mastery loop,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A2 no mastery loop,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A2 no mastery loop,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A2 no mastery loop,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A2 no mastery loop,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A2 no mastery loop,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A2 no mastery loop,hint_determinants_74,hint,determinants,1,1,1,1,1
+A2 no mastery loop,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A2 no mastery loop,grade_determinants_76,grade,determinants,1,1,1,1,1
+A2 no mastery loop,hint_determinants_77,hint,determinants,1,1,1,1,1
+A2 no mastery loop,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A2 no mastery loop,grade_determinants_79,grade,determinants,1,1,1,1,1
+A2 no mastery loop,hint_determinants_80,hint,determinants,1,1,1,1,1
+A2 no mastery loop,chat_determinants_81,chat,determinants,1,1,1,1,1
+A2 no mastery loop,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A2 no mastery loop,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A2 no mastery loop,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A2 no mastery loop,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A2 no mastery loop,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A2 no mastery loop,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A2 no mastery loop,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A2 no mastery loop,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A2 no mastery loop,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A2 no mastery loop,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A2 no mastery loop,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A2 no mastery loop,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A2 no mastery loop,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A2 no mastery loop,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A2 no mastery loop,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A2 no mastery loop,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A2 no mastery loop,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A2 no mastery loop,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A2 no mastery loop,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A2 no mastery loop,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A2 no mastery loop,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A2 no mastery loop,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A2 no mastery loop,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A2 no mastery loop,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A2 no mastery loop,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A2 no mastery loop,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A2 no mastery loop,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A2 no mastery loop,grade_projection_109,grade,projection,1,1,1,1,1
+A2 no mastery loop,hint_projection_110,hint,projection,1,1,1,1,1
+A2 no mastery loop,chat_projection_111,chat,projection,1,1,1,1,1
+A2 no mastery loop,grade_projection_112,grade,projection,1,1,1,1,1
+A2 no mastery loop,hint_projection_113,hint,projection,1,1,1,1,1
+A2 no mastery loop,chat_projection_114,chat,projection,1,1,1,1,1
+A2 no mastery loop,grade_projection_115,grade,projection,1,1,1,1,1
+A2 no mastery loop,hint_projection_116,hint,projection,1,1,1,1,1
+A2 no mastery loop,chat_projection_117,chat,projection,1,1,1,1,1
+A2 no mastery loop,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A2 no mastery loop,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A2 no mastery loop,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A2 no mastery loop,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A2 no mastery loop,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A2 no mastery loop,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A2 no mastery loop,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A2 no mastery loop,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A2 no mastery loop,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A2 no mastery loop,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A2 no mastery loop,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A2 no mastery loop,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A2 no mastery loop,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A2 no mastery loop,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A2 no mastery loop,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A2 no mastery loop,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A2 no mastery loop,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A2 no mastery loop,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A2 no mastery loop,grade_svd_136,grade,svd,1,1,1,1,1
+A2 no mastery loop,hint_svd_137,hint,svd,1,1,1,1,1
+A2 no mastery loop,chat_svd_138,chat,svd,1,0,1,0,0.5
+A2 no mastery loop,grade_svd_139,grade,svd,1,1,1,1,1
+A2 no mastery loop,hint_svd_140,hint,svd,1,1,1,0,0.75
+A2 no mastery loop,chat_svd_141,chat,svd,1,0,1,0,0.5
+A2 no mastery loop,grade_svd_142,grade,svd,1,1,1,1,1
+A2 no mastery loop,hint_svd_143,hint,svd,1,1,1,1,1
+A2 no mastery loop,chat_svd_144,chat,svd,1,1,1,1,1
+A3 no retrieval,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A3 no retrieval,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A3 no retrieval,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A3 no retrieval,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A3 no retrieval,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A3 no retrieval,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A3 no retrieval,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A3 no retrieval,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A3 no retrieval,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A3 no retrieval,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A3 no retrieval,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A3 no retrieval,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A3 no retrieval,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A3 no retrieval,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A3 no retrieval,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A3 no retrieval,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A3 no retrieval,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A3 no retrieval,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A3 no retrieval,grade_rank_19,grade,rank,1,1,1,1,1
+A3 no retrieval,hint_rank_20,hint,rank,1,1,1,1,1
+A3 no retrieval,chat_rank_21,chat,rank,1,0,1,0,0.5
+A3 no retrieval,grade_rank_22,grade,rank,1,1,1,1,1
+A3 no retrieval,hint_rank_23,hint,rank,1,1,1,1,1
+A3 no retrieval,chat_rank_24,chat,rank,1,0,1,0,0.5
+A3 no retrieval,grade_rank_25,grade,rank,1,1,1,1,1
+A3 no retrieval,hint_rank_26,hint,rank,1,1,1,1,1
+A3 no retrieval,chat_rank_27,chat,rank,1,1,1,1,1
+A3 no retrieval,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A3 no retrieval,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A3 no retrieval,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A3 no retrieval,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A3 no retrieval,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A3 no retrieval,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A3 no retrieval,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A3 no retrieval,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A3 no retrieval,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A3 no retrieval,grade_column_space_37,grade,column_space,1,1,1,1,1
+A3 no retrieval,hint_column_space_38,hint,column_space,1,1,1,1,1
+A3 no retrieval,chat_column_space_39,chat,column_space,1,1,1,1,1
+A3 no retrieval,grade_column_space_40,grade,column_space,1,1,1,1,1
+A3 no retrieval,hint_column_space_41,hint,column_space,1,1,1,1,1
+A3 no retrieval,chat_column_space_42,chat,column_space,1,1,1,1,1
+A3 no retrieval,grade_column_space_43,grade,column_space,1,1,1,1,1
+A3 no retrieval,hint_column_space_44,hint,column_space,1,1,1,1,1
+A3 no retrieval,chat_column_space_45,chat,column_space,1,1,1,1,1
+A3 no retrieval,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A3 no retrieval,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A3 no retrieval,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A3 no retrieval,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A3 no retrieval,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A3 no retrieval,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A3 no retrieval,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A3 no retrieval,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A3 no retrieval,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A3 no retrieval,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A3 no retrieval,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A3 no retrieval,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A3 no retrieval,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A3 no retrieval,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A3 no retrieval,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A3 no retrieval,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A3 no retrieval,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A3 no retrieval,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A3 no retrieval,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A3 no retrieval,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A3 no retrieval,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A3 no retrieval,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A3 no retrieval,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A3 no retrieval,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A3 no retrieval,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A3 no retrieval,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A3 no retrieval,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A3 no retrieval,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A3 no retrieval,hint_determinants_74,hint,determinants,1,1,1,1,1
+A3 no retrieval,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A3 no retrieval,grade_determinants_76,grade,determinants,1,1,1,1,1
+A3 no retrieval,hint_determinants_77,hint,determinants,1,1,1,1,1
+A3 no retrieval,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A3 no retrieval,grade_determinants_79,grade,determinants,1,1,1,1,1
+A3 no retrieval,hint_determinants_80,hint,determinants,1,1,1,1,1
+A3 no retrieval,chat_determinants_81,chat,determinants,1,1,1,1,1
+A3 no retrieval,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A3 no retrieval,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A3 no retrieval,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A3 no retrieval,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A3 no retrieval,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A3 no retrieval,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A3 no retrieval,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A3 no retrieval,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A3 no retrieval,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A3 no retrieval,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A3 no retrieval,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A3 no retrieval,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A3 no retrieval,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A3 no retrieval,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A3 no retrieval,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A3 no retrieval,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A3 no retrieval,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A3 no retrieval,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A3 no retrieval,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A3 no retrieval,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A3 no retrieval,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A3 no retrieval,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A3 no retrieval,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A3 no retrieval,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A3 no retrieval,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A3 no retrieval,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A3 no retrieval,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A3 no retrieval,grade_projection_109,grade,projection,1,1,1,1,1
+A3 no retrieval,hint_projection_110,hint,projection,1,1,1,1,1
+A3 no retrieval,chat_projection_111,chat,projection,1,1,1,1,1
+A3 no retrieval,grade_projection_112,grade,projection,1,1,1,1,1
+A3 no retrieval,hint_projection_113,hint,projection,1,1,1,1,1
+A3 no retrieval,chat_projection_114,chat,projection,1,1,1,1,1
+A3 no retrieval,grade_projection_115,grade,projection,1,1,1,1,1
+A3 no retrieval,hint_projection_116,hint,projection,1,1,1,1,1
+A3 no retrieval,chat_projection_117,chat,projection,1,1,1,1,1
+A3 no retrieval,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A3 no retrieval,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A3 no retrieval,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A3 no retrieval,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A3 no retrieval,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A3 no retrieval,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A3 no retrieval,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A3 no retrieval,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A3 no retrieval,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A3 no retrieval,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A3 no retrieval,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A3 no retrieval,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A3 no retrieval,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A3 no retrieval,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A3 no retrieval,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A3 no retrieval,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A3 no retrieval,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A3 no retrieval,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A3 no retrieval,grade_svd_136,grade,svd,1,1,1,1,1
+A3 no retrieval,hint_svd_137,hint,svd,1,1,1,1,1
+A3 no retrieval,chat_svd_138,chat,svd,1,0,1,0,0.5
+A3 no retrieval,grade_svd_139,grade,svd,1,1,1,1,1
+A3 no retrieval,hint_svd_140,hint,svd,1,1,1,0,0.75
+A3 no retrieval,chat_svd_141,chat,svd,1,0,1,0,0.5
+A3 no retrieval,grade_svd_142,grade,svd,1,1,1,1,1
+A3 no retrieval,hint_svd_143,hint,svd,1,1,1,1,1
+A3 no retrieval,chat_svd_144,chat,svd,1,1,1,1,1
+A4 no dependency propagation,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A4 no dependency propagation,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A4 no dependency propagation,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A4 no dependency propagation,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A4 no dependency propagation,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A4 no dependency propagation,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A4 no dependency propagation,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A4 no dependency propagation,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A4 no dependency propagation,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A4 no dependency propagation,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A4 no dependency propagation,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A4 no dependency propagation,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A4 no dependency propagation,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A4 no dependency propagation,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A4 no dependency propagation,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A4 no dependency propagation,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A4 no dependency propagation,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A4 no dependency propagation,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A4 no dependency propagation,grade_rank_19,grade,rank,1,1,1,1,1
+A4 no dependency propagation,hint_rank_20,hint,rank,1,1,1,1,1
+A4 no dependency propagation,chat_rank_21,chat,rank,1,0,1,0,0.5
+A4 no dependency propagation,grade_rank_22,grade,rank,1,1,1,1,1
+A4 no dependency propagation,hint_rank_23,hint,rank,1,1,1,1,1
+A4 no dependency propagation,chat_rank_24,chat,rank,1,0,1,0,0.5
+A4 no dependency propagation,grade_rank_25,grade,rank,1,1,1,1,1
+A4 no dependency propagation,hint_rank_26,hint,rank,1,1,1,1,1
+A4 no dependency propagation,chat_rank_27,chat,rank,1,1,1,1,1
+A4 no dependency propagation,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A4 no dependency propagation,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A4 no dependency propagation,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A4 no dependency propagation,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A4 no dependency propagation,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A4 no dependency propagation,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A4 no dependency propagation,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A4 no dependency propagation,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A4 no dependency propagation,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A4 no dependency propagation,grade_column_space_37,grade,column_space,1,1,1,1,1
+A4 no dependency propagation,hint_column_space_38,hint,column_space,1,1,1,1,1
+A4 no dependency propagation,chat_column_space_39,chat,column_space,1,1,1,1,1
+A4 no dependency propagation,grade_column_space_40,grade,column_space,1,1,1,1,1
+A4 no dependency propagation,hint_column_space_41,hint,column_space,1,1,1,1,1
+A4 no dependency propagation,chat_column_space_42,chat,column_space,1,1,1,1,1
+A4 no dependency propagation,grade_column_space_43,grade,column_space,1,1,1,1,1
+A4 no dependency propagation,hint_column_space_44,hint,column_space,1,1,1,1,1
+A4 no dependency propagation,chat_column_space_45,chat,column_space,1,1,1,1,1
+A4 no dependency propagation,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A4 no dependency propagation,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A4 no dependency propagation,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A4 no dependency propagation,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A4 no dependency propagation,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A4 no dependency propagation,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A4 no dependency propagation,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A4 no dependency propagation,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A4 no dependency propagation,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A4 no dependency propagation,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A4 no dependency propagation,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A4 no dependency propagation,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A4 no dependency propagation,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A4 no dependency propagation,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A4 no dependency propagation,hint_determinants_74,hint,determinants,1,1,1,1,1
+A4 no dependency propagation,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A4 no dependency propagation,grade_determinants_76,grade,determinants,1,1,1,1,1
+A4 no dependency propagation,hint_determinants_77,hint,determinants,1,1,1,1,1
+A4 no dependency propagation,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A4 no dependency propagation,grade_determinants_79,grade,determinants,1,1,1,1,1
+A4 no dependency propagation,hint_determinants_80,hint,determinants,1,1,1,1,1
+A4 no dependency propagation,chat_determinants_81,chat,determinants,1,1,1,1,1
+A4 no dependency propagation,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A4 no dependency propagation,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A4 no dependency propagation,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A4 no dependency propagation,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A4 no dependency propagation,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A4 no dependency propagation,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A4 no dependency propagation,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A4 no dependency propagation,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A4 no dependency propagation,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A4 no dependency propagation,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A4 no dependency propagation,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A4 no dependency propagation,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A4 no dependency propagation,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A4 no dependency propagation,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A4 no dependency propagation,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A4 no dependency propagation,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A4 no dependency propagation,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A4 no dependency propagation,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A4 no dependency propagation,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A4 no dependency propagation,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A4 no dependency propagation,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A4 no dependency propagation,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A4 no dependency propagation,grade_projection_109,grade,projection,1,1,1,1,1
+A4 no dependency propagation,hint_projection_110,hint,projection,1,1,1,1,1
+A4 no dependency propagation,chat_projection_111,chat,projection,1,1,1,1,1
+A4 no dependency propagation,grade_projection_112,grade,projection,1,1,1,1,1
+A4 no dependency propagation,hint_projection_113,hint,projection,1,1,1,1,1
+A4 no dependency propagation,chat_projection_114,chat,projection,1,1,1,1,1
+A4 no dependency propagation,grade_projection_115,grade,projection,1,1,1,1,1
+A4 no dependency propagation,hint_projection_116,hint,projection,1,1,1,1,1
+A4 no dependency propagation,chat_projection_117,chat,projection,1,1,1,1,1
+A4 no dependency propagation,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A4 no dependency propagation,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A4 no dependency propagation,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A4 no dependency propagation,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A4 no dependency propagation,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A4 no dependency propagation,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A4 no dependency propagation,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A4 no dependency propagation,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A4 no dependency propagation,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A4 no dependency propagation,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A4 no dependency propagation,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A4 no dependency propagation,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A4 no dependency propagation,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A4 no dependency propagation,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A4 no dependency propagation,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A4 no dependency propagation,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A4 no dependency propagation,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A4 no dependency propagation,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A4 no dependency propagation,grade_svd_136,grade,svd,1,1,1,1,1
+A4 no dependency propagation,hint_svd_137,hint,svd,1,1,1,1,1
+A4 no dependency propagation,chat_svd_138,chat,svd,1,0,1,0,0.5
+A4 no dependency propagation,grade_svd_139,grade,svd,1,1,1,1,1
+A4 no dependency propagation,hint_svd_140,hint,svd,1,1,1,0,0.75
+A4 no dependency propagation,chat_svd_141,chat,svd,1,0,1,0,0.5
+A4 no dependency propagation,grade_svd_142,grade,svd,1,1,1,1,1
+A4 no dependency propagation,hint_svd_143,hint,svd,1,1,1,1,1
+A4 no dependency propagation,chat_svd_144,chat,svd,1,1,1,1,1
+A5 no IRT adaptation,grade_linear_systems_1,grade,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_systems_2,hint,linear_systems,1,0,1,0,0.5
+A5 no IRT adaptation,chat_linear_systems_3,chat,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,grade_linear_systems_4,grade,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_systems_5,hint,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,chat_linear_systems_6,chat,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,grade_linear_systems_7,grade,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_systems_8,hint,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,chat_linear_systems_9,chat,linear_systems,1,1,1,1,1
+A5 no IRT adaptation,grade_row_reduction_10,grade,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,hint_row_reduction_11,hint,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,chat_row_reduction_12,chat,row_reduction,1,0,1,0,0.5
+A5 no IRT adaptation,grade_row_reduction_13,grade,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,hint_row_reduction_14,hint,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,chat_row_reduction_15,chat,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,grade_row_reduction_16,grade,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,hint_row_reduction_17,hint,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,chat_row_reduction_18,chat,row_reduction,1,1,1,1,1
+A5 no IRT adaptation,grade_rank_19,grade,rank,1,1,1,1,1
+A5 no IRT adaptation,hint_rank_20,hint,rank,1,1,1,1,1
+A5 no IRT adaptation,chat_rank_21,chat,rank,1,0,1,0,0.5
+A5 no IRT adaptation,grade_rank_22,grade,rank,1,1,1,1,1
+A5 no IRT adaptation,hint_rank_23,hint,rank,1,1,1,1,1
+A5 no IRT adaptation,chat_rank_24,chat,rank,1,0,1,0,0.5
+A5 no IRT adaptation,grade_rank_25,grade,rank,1,1,1,1,1
+A5 no IRT adaptation,hint_rank_26,hint,rank,1,1,1,1,1
+A5 no IRT adaptation,chat_rank_27,chat,rank,1,1,1,1,1
+A5 no IRT adaptation,grade_nullspace_28,grade,nullspace,1,1,1,1,1
+A5 no IRT adaptation,hint_nullspace_29,hint,nullspace,1,1,1,1,1
+A5 no IRT adaptation,chat_nullspace_30,chat,nullspace,1,1,1,1,1
+A5 no IRT adaptation,grade_nullspace_31,grade,nullspace,1,1,1,1,1
+A5 no IRT adaptation,hint_nullspace_32,hint,nullspace,1,1,1,1,1
+A5 no IRT adaptation,chat_nullspace_33,chat,nullspace,1,0,1,0,0.5
+A5 no IRT adaptation,grade_nullspace_34,grade,nullspace,1,1,1,1,1
+A5 no IRT adaptation,hint_nullspace_35,hint,nullspace,1,1,1,1,1
+A5 no IRT adaptation,chat_nullspace_36,chat,nullspace,1,1,1,1,1
+A5 no IRT adaptation,grade_column_space_37,grade,column_space,1,1,1,1,1
+A5 no IRT adaptation,hint_column_space_38,hint,column_space,1,1,1,1,1
+A5 no IRT adaptation,chat_column_space_39,chat,column_space,1,1,1,1,1
+A5 no IRT adaptation,grade_column_space_40,grade,column_space,1,1,1,1,1
+A5 no IRT adaptation,hint_column_space_41,hint,column_space,1,1,1,1,1
+A5 no IRT adaptation,chat_column_space_42,chat,column_space,1,1,1,1,1
+A5 no IRT adaptation,grade_column_space_43,grade,column_space,1,1,1,1,1
+A5 no IRT adaptation,hint_column_space_44,hint,column_space,1,1,1,1,1
+A5 no IRT adaptation,chat_column_space_45,chat,column_space,1,1,1,1,1
+A5 no IRT adaptation,grade_basis_dimension_46,grade,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,hint_basis_dimension_47,hint,basis_dimension,1,0,1,0,0.5
+A5 no IRT adaptation,chat_basis_dimension_48,chat,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,grade_basis_dimension_49,grade,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,hint_basis_dimension_50,hint,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,chat_basis_dimension_51,chat,basis_dimension,1,0,1,0,0.5
+A5 no IRT adaptation,grade_basis_dimension_52,grade,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,hint_basis_dimension_53,hint,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,chat_basis_dimension_54,chat,basis_dimension,1,1,1,1,1
+A5 no IRT adaptation,grade_linear_maps_55,grade,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_maps_56,hint,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,chat_linear_maps_57,chat,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,grade_linear_maps_58,grade,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_maps_59,hint,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,chat_linear_maps_60,chat,linear_maps,1,0,1,0,0.5
+A5 no IRT adaptation,grade_linear_maps_61,grade,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,hint_linear_maps_62,hint,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,chat_linear_maps_63,chat,linear_maps,1,1,1,1,1
+A5 no IRT adaptation,grade_change_of_basis_64,grade,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,hint_change_of_basis_65,hint,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,chat_change_of_basis_66,chat,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,grade_change_of_basis_67,grade,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,hint_change_of_basis_68,hint,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,chat_change_of_basis_69,chat,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,grade_change_of_basis_70,grade,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,hint_change_of_basis_71,hint,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,chat_change_of_basis_72,chat,change_of_basis,1,1,1,1,1
+A5 no IRT adaptation,grade_determinants_73,grade,determinants,1,0,1,0,0.5
+A5 no IRT adaptation,hint_determinants_74,hint,determinants,1,1,1,1,1
+A5 no IRT adaptation,chat_determinants_75,chat,determinants,1,0,1,0,0.5
+A5 no IRT adaptation,grade_determinants_76,grade,determinants,1,1,1,1,1
+A5 no IRT adaptation,hint_determinants_77,hint,determinants,1,1,1,1,1
+A5 no IRT adaptation,chat_determinants_78,chat,determinants,1,0,1,0,0.5
+A5 no IRT adaptation,grade_determinants_79,grade,determinants,1,1,1,1,1
+A5 no IRT adaptation,hint_determinants_80,hint,determinants,1,1,1,1,1
+A5 no IRT adaptation,chat_determinants_81,chat,determinants,1,1,1,1,1
+A5 no IRT adaptation,grade_eigenvalues_82,grade,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,hint_eigenvalues_83,hint,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,chat_eigenvalues_84,chat,eigenvalues,1,0,1,0,0.5
+A5 no IRT adaptation,grade_eigenvalues_85,grade,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,hint_eigenvalues_86,hint,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,chat_eigenvalues_87,chat,eigenvalues,1,0,1,0,0.5
+A5 no IRT adaptation,grade_eigenvalues_88,grade,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,hint_eigenvalues_89,hint,eigenvalues,1,0,1,0,0.5
+A5 no IRT adaptation,chat_eigenvalues_90,chat,eigenvalues,1,1,1,1,1
+A5 no IRT adaptation,grade_diagonalization_91,grade,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,hint_diagonalization_92,hint,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,chat_diagonalization_93,chat,diagonalization,1,0,1,0,0.5
+A5 no IRT adaptation,grade_diagonalization_94,grade,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,hint_diagonalization_95,hint,diagonalization,1,0,1,0,0.5
+A5 no IRT adaptation,chat_diagonalization_96,chat,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,grade_diagonalization_97,grade,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,hint_diagonalization_98,hint,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,chat_diagonalization_99,chat,diagonalization,1,1,1,1,1
+A5 no IRT adaptation,grade_orthogonality_100,grade,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,hint_orthogonality_101,hint,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,chat_orthogonality_102,chat,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,grade_orthogonality_103,grade,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,hint_orthogonality_104,hint,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,chat_orthogonality_105,chat,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,grade_orthogonality_106,grade,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,hint_orthogonality_107,hint,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,chat_orthogonality_108,chat,orthogonality,1,1,1,1,1
+A5 no IRT adaptation,grade_projection_109,grade,projection,1,1,1,1,1
+A5 no IRT adaptation,hint_projection_110,hint,projection,1,1,1,1,1
+A5 no IRT adaptation,chat_projection_111,chat,projection,1,1,1,1,1
+A5 no IRT adaptation,grade_projection_112,grade,projection,1,1,1,1,1
+A5 no IRT adaptation,hint_projection_113,hint,projection,1,1,1,1,1
+A5 no IRT adaptation,chat_projection_114,chat,projection,1,1,1,1,1
+A5 no IRT adaptation,grade_projection_115,grade,projection,1,1,1,1,1
+A5 no IRT adaptation,hint_projection_116,hint,projection,1,1,1,1,1
+A5 no IRT adaptation,chat_projection_117,chat,projection,1,1,1,1,1
+A5 no IRT adaptation,grade_least_squares_118,grade,least_squares,1,1,1,1,1
+A5 no IRT adaptation,hint_least_squares_119,hint,least_squares,1,0,1,0,0.5
+A5 no IRT adaptation,chat_least_squares_120,chat,least_squares,1,0,1,0,0.5
+A5 no IRT adaptation,grade_least_squares_121,grade,least_squares,1,1,1,1,1
+A5 no IRT adaptation,hint_least_squares_122,hint,least_squares,1,0,1,0,0.5
+A5 no IRT adaptation,chat_least_squares_123,chat,least_squares,1,0,1,0,0.5
+A5 no IRT adaptation,grade_least_squares_124,grade,least_squares,1,1,1,1,1
+A5 no IRT adaptation,hint_least_squares_125,hint,least_squares,1,1,1,1,1
+A5 no IRT adaptation,chat_least_squares_126,chat,least_squares,1,1,1,1,1
+A5 no IRT adaptation,grade_positive_definite_127,grade,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,hint_positive_definite_128,hint,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,chat_positive_definite_129,chat,positive_definite,1,0,1,0,0.5
+A5 no IRT adaptation,grade_positive_definite_130,grade,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,hint_positive_definite_131,hint,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,chat_positive_definite_132,chat,positive_definite,1,0,1,0,0.5
+A5 no IRT adaptation,grade_positive_definite_133,grade,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,hint_positive_definite_134,hint,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,chat_positive_definite_135,chat,positive_definite,1,1,1,1,1
+A5 no IRT adaptation,grade_svd_136,grade,svd,1,1,1,1,1
+A5 no IRT adaptation,hint_svd_137,hint,svd,1,1,1,1,1
+A5 no IRT adaptation,chat_svd_138,chat,svd,1,0,1,0,0.5
+A5 no IRT adaptation,grade_svd_139,grade,svd,1,1,1,1,1
+A5 no IRT adaptation,hint_svd_140,hint,svd,1,1,1,0,0.75
+A5 no IRT adaptation,chat_svd_141,chat,svd,1,0,1,0,0.5
+A5 no IRT adaptation,grade_svd_142,grade,svd,1,1,1,1,1
+A5 no IRT adaptation,hint_svd_143,hint,svd,1,1,1,1,1
+A5 no IRT adaptation,chat_svd_144,chat,svd,1,1,1,1,1
+A6 fixed dialogue flow,fixed_001,grade,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_002,hint,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_003,chat,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_004,grade,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_005,hint,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_006,chat,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_007,grade,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_008,hint,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_009,chat,linear_systems,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_010,grade,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_011,hint,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_012,chat,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_013,grade,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_014,hint,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_015,chat,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_016,grade,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_017,hint,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_018,chat,row_reduction,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_019,grade,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_020,hint,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_021,chat,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_022,grade,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_023,hint,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_024,chat,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_025,grade,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_026,hint,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_027,chat,rank,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_028,grade,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_029,hint,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_030,chat,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_031,grade,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_032,hint,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_033,chat,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_034,grade,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_035,hint,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_036,chat,nullspace,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_037,grade,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_038,hint,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_039,chat,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_040,grade,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_041,hint,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_042,chat,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_043,grade,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_044,hint,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_045,chat,column_space,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_046,grade,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_047,hint,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_048,chat,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_049,grade,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_050,hint,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_051,chat,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_052,grade,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_053,hint,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_054,chat,basis_dimension,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_055,grade,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_056,hint,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_057,chat,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_058,grade,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_059,hint,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_060,chat,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_061,grade,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_062,hint,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_063,chat,linear_maps,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_064,grade,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_065,hint,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_066,chat,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_067,grade,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_068,hint,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_069,chat,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_070,grade,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_071,hint,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_072,chat,change_of_basis,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_073,grade,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_074,hint,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_075,chat,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_076,grade,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_077,hint,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_078,chat,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_079,grade,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_080,hint,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_081,chat,determinants,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_082,grade,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_083,hint,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_084,chat,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_085,grade,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_086,hint,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_087,chat,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_088,grade,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_089,hint,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_090,chat,eigenvalues,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_091,grade,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_092,hint,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_093,chat,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_094,grade,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_095,hint,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_096,chat,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_097,grade,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_098,hint,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_099,chat,diagonalization,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_100,grade,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_101,hint,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_102,chat,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_103,grade,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_104,hint,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_105,chat,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_106,grade,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_107,hint,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_108,chat,orthogonality,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_109,grade,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_110,hint,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_111,chat,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_112,grade,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_113,hint,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_114,chat,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_115,grade,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_116,hint,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_117,chat,projection,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_118,grade,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_119,hint,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_120,chat,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_121,grade,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_122,hint,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_123,chat,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_124,grade,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_125,hint,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_126,chat,least_squares,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_127,grade,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_128,hint,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_129,chat,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_130,grade,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_131,hint,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_132,chat,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_133,grade,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_134,hint,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_135,chat,positive_definite,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_136,grade,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_137,hint,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_138,chat,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_139,grade,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_140,hint,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_141,chat,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_142,grade,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_143,hint,svd,0,0,1,0,0.25
+A6 fixed dialogue flow,fixed_144,chat,svd,0,0,1,0,0.25

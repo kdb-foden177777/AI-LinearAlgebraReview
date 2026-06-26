@@ -1,0 +1,321 @@
+condition,concept,query,success_at_5,first_hit_rank,reciprocal_rank,top_source,top_role,top_score
+lexical,linear_systems,How do row operations solve a linear system?,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.19132
+lexical,linear_systems,Find a course explanation of linear systems for final review.,1,1,1.0,flipped_md/inclass/linear-systems/inclass-describe/inclass-describe.md,activity,0.13252
+lexical,linear_systems,Which worked example or exam solution illustrates linear system?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.11528
+lexical,linear_systems,What common mistake should a student avoid when using linear system?,0,0,0,mit_linear_algebra_md/spring2022/finalsol/finalsol.md,solution,0.05668
+lexical,row_reduction,How do pivots and free variables appear in RREF?,1,1,1.0,slides_md/one/one_i_allproofs/one_i_allproofs.md,lecture,0.24703
+lexical,row_reduction,Find a course explanation of row reduction for final review.,1,2,0.5,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.10998
+lexical,row_reduction,Which worked example or exam solution illustrates row reduction?,1,1,1.0,slides_md/one/one_iii/one_iii.md,lecture,0.11653
+lexical,row_reduction,What common mistake should a student avoid when using row reduction?,1,1,1.0,slides_md/one/one_iii_handout/one_iii_handout.md,handout,0.07366
+lexical,rank,How is rank read from a row-reduced matrix?,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.16236
+lexical,rank,Find a course explanation of rank for final review.,1,4,0.25,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12981
+lexical,rank,Which worked example or exam solution illustrates rank?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.10565
+lexical,rank,What common mistake should a student avoid when using rank?,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.07465
+lexical,nullspace,How is a basis for the nullspace computed?,1,1,1.0,mit_linear_algebra_md/spring2021/Final Solutions/Final Solutions.md,solution,0.11878
+lexical,nullspace,Find a course explanation of nullspace for final review.,0,0,0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.1285
+lexical,nullspace,Which worked example or exam solution illustrates nullspace?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.1081
+lexical,nullspace,What common mistake should a student avoid when using nullspace?,0,0,0,mit_linear_algebra_md/spring2022/finalsol/finalsol.md,solution,0.0559
+lexical,column_space,How is the column space related to solvability of Ax=b?,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.25307
+lexical,column_space,Find a course explanation of column space for final review.,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.13261
+lexical,column_space,Which worked example or exam solution illustrates column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.1768
+lexical,column_space,What common mistake should a student avoid when using column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.09967
+lexical,basis_dimension,How do basis and dimension describe a vector space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.34847
+lexical,basis_dimension,Find a course explanation of basis and dimension for final review.,1,1,1.0,flipped_md/inclass/vector-spaces/Two-III-2b/Two-III-2b.md,activity,0.11777
+lexical,basis_dimension,Which worked example or exam solution illustrates basis?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.10301
+lexical,basis_dimension,What common mistake should a student avoid when using basis?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.06787
+lexical,linear_maps,How is a linear map represented by a matrix?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.27222
+lexical,linear_maps,Find a course explanation of linear maps for final review.,1,2,0.5,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12199
+lexical,linear_maps,Which worked example or exam solution illustrates linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.16468
+lexical,linear_maps,What common mistake should a student avoid when using linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.11185
+lexical,change_of_basis,What does a change-of-basis matrix do?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.20794
+lexical,change_of_basis,Find a course explanation of change of basis for final review.,1,2,0.5,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.1175
+lexical,change_of_basis,Which worked example or exam solution illustrates change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.14401
+lexical,change_of_basis,What common mistake should a student avoid when using change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.09181
+lexical,determinants,How do row operations affect the determinant?,1,1,1.0,slides_md/two/two_iii_allproofs/two_iii_allproofs.md,lecture,0.17168
+lexical,determinants,Find a course explanation of determinants for final review.,1,2,0.5,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12566
+lexical,determinants,Which worked example or exam solution illustrates determinant?,1,1,1.0,slides_md/four/four_i_handout/four_i_handout.md,handout,0.12956
+lexical,determinants,What common mistake should a student avoid when using determinant?,1,1,1.0,slides_md/four/four_i_handout/four_i_handout.md,handout,0.07413
+lexical,eigenvalues,How are eigenvalues found from the characteristic polynomial?,1,1,1.0,slides_md/five/five_ii/five_ii.md,lecture,0.71003
+lexical,eigenvalues,Find a course explanation of eigenvalues and eigenvectors for final review.,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12357
+lexical,eigenvalues,Which worked example or exam solution illustrates eigenvalue?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.14393
+lexical,eigenvalues,What common mistake should a student avoid when using eigenvalue?,1,1,1.0,mit_linear_algebra_md/fall2022/finalsol/finalsol.md,solution,0.08371
+lexical,diagonalization,When is a matrix diagonalizable?,1,1,1.0,mit_linear_algebra_md/spring2016/final/final.md,exam,0.41004
+lexical,diagonalization,Find a course explanation of diagonalization for final review.,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.11955
+lexical,diagonalization,Which worked example or exam solution illustrates diagonalize?,0,0,0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.08243
+lexical,diagonalization,What common mistake should a student avoid when using diagonalize?,1,1,1.0,mit_linear_algebra_md/spring2022/finalsol/finalsol.md,solution,0.05301
+lexical,orthogonality,How does Gram-Schmidt construct an orthonormal basis?,1,1,1.0,mit_linear_algebra_md/spring2009/final-s09/final-s09.md,exam,0.31538
+lexical,orthogonality,Find a course explanation of orthogonality for final review.,1,2,0.5,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.11227
+lexical,orthogonality,Which worked example or exam solution illustrates orthogonal?,1,1,1.0,slides_md/three/three_vi_handout/three_vi_handout.md,handout,0.10208
+lexical,orthogonality,What common mistake should a student avoid when using orthogonal?,1,1,1.0,slides_md/three/three_vi_handout/three_vi_handout.md,handout,0.05641
+lexical,projection,How is an orthogonal projection computed?,1,1,1.0,mit_linear_algebra_md/fall2017/final-sol/final-sol.md,solution,0.27043
+lexical,projection,Find a course explanation of projection for final review.,1,4,0.25,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12825
+lexical,projection,Which worked example or exam solution illustrates projection?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.15701
+lexical,projection,What common mistake should a student avoid when using projection?,1,1,1.0,mit_linear_algebra_md/fall2018/finalsol/finalsol.md,solution,0.08559
+lexical,least_squares,How are least-squares problems solved?,1,4,0.25,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.11971
+lexical,least_squares,Find a course explanation of least squares for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.14791
+lexical,least_squares,Which worked example or exam solution illustrates least squares?,1,4,0.25,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.08958
+lexical,least_squares,What common mistake should a student avoid when using least squares?,0,0,0,mit_linear_algebra_md/fall2022/final/final.md,exam,0.05748
+lexical,positive_definite,How are eigenvalues used to test positive definiteness?,1,1,1.0,mit_linear_algebra_md/spring2008/final-1806-S08-soln/final-1806-S08-soln.md,solution,0.27069
+lexical,positive_definite,Find a course explanation of positive definite matrices for final review.,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.19141
+lexical,positive_definite,Which worked example or exam solution illustrates positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.25973
+lexical,positive_definite,What common mistake should a student avoid when using positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.18495
+lexical,svd,What do singular values describe in the SVD?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10/final-1806-f10.md,exam,0.44451
+lexical,svd,Find a course explanation of singular value decomposition for final review.,1,1,1.0,mit_linear_algebra_md/spring2005/final-1806-S05/final-1806-S05.md,exam,0.20465
+lexical,svd,Which worked example or exam solution illustrates SVD?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.15517
+lexical,svd,What common mistake should a student avoid when using SVD?,1,2,0.5,mit_linear_algebra_md/spring2022/finalsol/finalsol.md,solution,0.05395
+lexical,rank,"Retrieve review material for this exam-style task: and Gauss's method gives that the only solution is the trivial one $c_1 = 0$ , $c_2 = 0$ , $c_3 = 0$ . With that, because the domain $V = \mathbb{R}^3$ is 3-dimensional, this linea",1,1,1.0,flipped_md/inclass/map/Three-IIc/Three-IIc.md,activity,0.2929
+lexical,row_reduction,Retrieve review material for this exam-style task: Closed book exam (and no Calculators). Answer all 7 questions in the space provided (or direct us to the answer). Solutions will be posted outside the offices of Professor Kac (2–1,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.57025
+lexical,column_space,Retrieve review material for this exam-style task: $$M^{-1}A_4M = \begin{pmatrix} 1 & & & \\ & -1 & & \\ & & 1 & \\ & & & -1 \end{pmatrix} \begin{pmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 2 & 0 \\ 0 & 2 & 0 & 3 \\ 0 & 0 & 3 & 0 \end{pmatri,0,0,0,slides_md/three/three_iv/three_iv.md,lecture,0.3836
+lexical,nullspace,Retrieve review material for this exam-style task: - (a) What are the dimensions of R(A) and N(A) and $N\left(A^{T}\right)$ ? - (b) True or False or Undecidable for this $A\colon\thinspace Ax=\begin{pmatrix} 0\\1\\0 \end{pmatrix}$,1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.2653
+lexical,rank,"Retrieve review material for this exam-style task: - 7. (c) Circle True or False: if A has repeated eigenvalues, it is always possible to find an orthonormal basis for its column space. - 7. (d) Circle True or False: if $v_1,\ldots",1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.65792
+lexical,rank,Retrieve review material for this exam-style task: - (a) Find $T\left(\begin{bmatrix}0\\1\end{bmatrix}\right)$ . - (b) What is the matrix A expressing T in terms of the standard basis vectors $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$,1,3,0.3333333333333333,mit_linear_algebra_md/fall1999/final-solu-fall-99/final-solu-fall-99.md,solution,0.6698
+lexical,rank,"Retrieve review material for this exam-style task: - 6 (13 pts.) In each case give all the information you can about the eigenvalues and eigenvectors, when the matrix A has the following property: - (a) The powers $A^k$ approach th",1,1,1.0,mit_linear_algebra_md/fall1999/final-solu-fall-99/final-solu-fall-99.md,solution,0.41882
+lexical,rank,Retrieve review material for this exam-style task: - 1 (a) Explain why every eigenvector of A is either in the column space C(A) or the nullspace N(A) (or explain why this is false). - (b) From $A = S\Lambda S^{-1}$ find the eigenv,1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.23877
+lexical,row_reduction,"Retrieve review material for this exam-style task: $$R = \left[ \begin{array}{rrrr} 1 & 3 & 0 & 2 \\ 0 & 0 & 1 & 5 \\ 0 & 0 & 0 & 0 \end{array} \right]$$ - (a) The four subspaces associated with the original A are N(A), C(A), $N(A^",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28622
+lexical,rank,"Retrieve review material for this exam-style task: - (b) Find as many eigenvectors as possible, with the best possible properties. Are there 4 independent eigenvectors? Are there 4 orthonormal eigenvectors? - (c) What is the rank o",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28207
+lexical,rank,"Retrieve review material for this exam-style task: - (a) What subspace does P project onto? - (b) What is the distance from that subspace to b = (1, 1, 1)? - (c) What are the three eigenvalues of P? Is P diagonalizable? | 4 | (a) S",1,1,1.0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.2978
+lexical,row_reduction,"Retrieve review material for this exam-style task: - (a) Find an orthonormal basis $\boldsymbol{q}_1,\,\boldsymbol{q}_2$ for S by Gram-Schmidt. - (b) Write down the 3 by 3 matrix P which projects vectors perpendicularly onto S. - (",0,0,0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.40082
+lexical,basis_dimension,"Retrieve review material for this exam-style task: $$L = \begin{bmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ -2 & 3 & 1 \end{bmatrix}, U = \begin{bmatrix} 5 & 0 & 5 & 1 \\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}.$$ (a) What are the dime",1,2,0.5,mit_linear_algebra_md/spring2021/Final Solutions/Final Solutions.md,solution,0.72399
+lexical,row_reduction,Retrieve review material for this exam-style task: - 2 (12 pts.) Keep the same matrix A as in Problem 1. - (a) Find the matrix P that projects any vector in $\mathbb{R}^4$ onto the subspace spanned by the first column of A. - (b) D,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.32148
+lexical,nullspace,Retrieve review material for this exam-style task: - (b) An orthogonal set of 4 eigenvectors is \_\_\_\_\_\_ - (c) CIRCLE every class of matrices to which this matrix A belongs: 7 (12 pts.) Suppose A is 2 by 3 with this Singular Va,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.3799
+lexical,row_reduction,Retrieve review material for this exam-style task: ## 1 Please circle your recitation: $\mathbf{2}$ 3 4 T 10 2-131 K. Meszaros 2-333 3-7826 karola 5 T 10 2-132 A. Barakat 2-172 3-4470 barakat 6 T 11 2-132 A. Barakat $2 - 172 \quad,1,1,1.0,mit_linear_algebra_md/fall2006/final-1806-F06/final-1806-F06.md,exam,0.64403
+concept_filtered,linear_systems,How do row operations solve a linear system?,1,1,1.0,slides_md/one/one_i_handout/one_i_handout.md,handout,0.14632
+concept_filtered,linear_systems,Find a course explanation of linear systems for final review.,1,1,1.0,flipped_md/inclass/linear-systems/inclass-describe/inclass-describe.md,activity,0.13252
+concept_filtered,linear_systems,Which worked example or exam solution illustrates linear system?,1,1,1.0,slides_md/one/one_i/one_i.md,lecture,0.06155
+concept_filtered,linear_systems,What common mistake should a student avoid when using linear system?,1,1,1.0,flipped_md/inclass/linear-systems/One-I-2/One-I-2.md,activity,0.04364
+concept_filtered,row_reduction,How do pivots and free variables appear in RREF?,1,1,1.0,slides_md/one/one_i_allproofs/one_i_allproofs.md,lecture,0.24703
+concept_filtered,row_reduction,Find a course explanation of row reduction for final review.,1,1,1.0,slides_md/three/three_v_allproofs/three_v_allproofs.md,lecture,0.08175
+concept_filtered,row_reduction,Which worked example or exam solution illustrates row reduction?,1,1,1.0,slides_md/one/one_iii/one_iii.md,lecture,0.11653
+concept_filtered,row_reduction,What common mistake should a student avoid when using row reduction?,1,1,1.0,slides_md/one/one_iii_handout/one_iii_handout.md,handout,0.07366
+concept_filtered,rank,How is rank read from a row-reduced matrix?,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.16236
+concept_filtered,rank,Find a course explanation of rank for final review.,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.08075
+concept_filtered,rank,Which worked example or exam solution illustrates rank?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.10565
+concept_filtered,rank,What common mistake should a student avoid when using rank?,1,1,1.0,slides_md/two/two_iii_handout/two_iii_handout.md,handout,0.07465
+concept_filtered,nullspace,How is a basis for the nullspace computed?,1,1,1.0,mit_linear_algebra_md/spring2021/Final Solutions/Final Solutions.md,solution,0.11878
+concept_filtered,nullspace,Find a course explanation of nullspace for final review.,1,1,1.0,mit_linear_algebra_md/fall2022/finalsol/finalsol.md,solution,0.04991
+concept_filtered,nullspace,Which worked example or exam solution illustrates nullspace?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.1081
+concept_filtered,nullspace,What common mistake should a student avoid when using nullspace?,1,1,1.0,mit_linear_algebra_md/fall2022/finalsol/finalsol.md,solution,0.04133
+concept_filtered,column_space,How is the column space related to solvability of Ax=b?,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.25307
+concept_filtered,column_space,Find a course explanation of column space for final review.,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.13261
+concept_filtered,column_space,Which worked example or exam solution illustrates column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.1768
+concept_filtered,column_space,What common mistake should a student avoid when using column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.09967
+concept_filtered,basis_dimension,How do basis and dimension describe a vector space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.34847
+concept_filtered,basis_dimension,Find a course explanation of basis and dimension for final review.,1,1,1.0,flipped_md/inclass/vector-spaces/Two-III-2b/Two-III-2b.md,activity,0.11777
+concept_filtered,basis_dimension,Which worked example or exam solution illustrates basis?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.10301
+concept_filtered,basis_dimension,What common mistake should a student avoid when using basis?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.06787
+concept_filtered,linear_maps,How is a linear map represented by a matrix?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.27222
+concept_filtered,linear_maps,Find a course explanation of linear maps for final review.,1,1,1.0,slides_md/three/three_ii/three_ii.md,lecture,0.09722
+concept_filtered,linear_maps,Which worked example or exam solution illustrates linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.16468
+concept_filtered,linear_maps,What common mistake should a student avoid when using linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.11185
+concept_filtered,change_of_basis,What does a change-of-basis matrix do?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.20794
+concept_filtered,change_of_basis,Find a course explanation of change of basis for final review.,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.11653
+concept_filtered,change_of_basis,Which worked example or exam solution illustrates change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.14401
+concept_filtered,change_of_basis,What common mistake should a student avoid when using change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.09181
+concept_filtered,determinants,How do row operations affect the determinant?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.12153
+concept_filtered,determinants,Find a course explanation of determinants for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/finalsol/finalsol.md,solution,0.09203
+concept_filtered,determinants,Which worked example or exam solution illustrates determinant?,1,1,1.0,slides_md/four/four_i_handout/four_i_handout.md,handout,0.12956
+concept_filtered,determinants,What common mistake should a student avoid when using determinant?,1,1,1.0,slides_md/four/four_i_handout/four_i_handout.md,handout,0.07413
+concept_filtered,eigenvalues,How are eigenvalues found from the characteristic polynomial?,1,1,1.0,slides_md/five/five_ii/five_ii.md,lecture,0.71003
+concept_filtered,eigenvalues,Find a course explanation of eigenvalues and eigenvectors for final review.,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.12357
+concept_filtered,eigenvalues,Which worked example or exam solution illustrates eigenvalue?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.14393
+concept_filtered,eigenvalues,What common mistake should a student avoid when using eigenvalue?,1,1,1.0,mit_linear_algebra_md/fall2022/finalsol/finalsol.md,solution,0.08371
+concept_filtered,diagonalization,When is a matrix diagonalizable?,1,1,1.0,mit_linear_algebra_md/spring2016/final/final.md,exam,0.41004
+concept_filtered,diagonalization,Find a course explanation of diagonalization for final review.,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.11955
+concept_filtered,diagonalization,Which worked example or exam solution illustrates diagonalize?,1,1,1.0,mit_linear_algebra_md/fall2007/practicefinal-sol/practicefinal-sol.md,solution,0.05874
+concept_filtered,diagonalization,What common mistake should a student avoid when using diagonalize?,1,1,1.0,mit_linear_algebra_md/spring2022/finalsol/finalsol.md,solution,0.05301
+concept_filtered,orthogonality,How does Gram-Schmidt construct an orthonormal basis?,1,1,1.0,mit_linear_algebra_md/spring2009/final-s09/final-s09.md,exam,0.31538
+concept_filtered,orthogonality,Find a course explanation of orthogonality for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/finalsol/finalsol.md,solution,0.08222
+concept_filtered,orthogonality,Which worked example or exam solution illustrates orthogonal?,1,1,1.0,slides_md/three/three_vi_handout/three_vi_handout.md,handout,0.10208
+concept_filtered,orthogonality,What common mistake should a student avoid when using orthogonal?,1,1,1.0,slides_md/three/three_vi_handout/three_vi_handout.md,handout,0.05641
+concept_filtered,projection,How is an orthogonal projection computed?,1,1,1.0,mit_linear_algebra_md/fall2017/final-sol/final-sol.md,solution,0.27043
+concept_filtered,projection,Find a course explanation of projection for final review.,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.08046
+concept_filtered,projection,Which worked example or exam solution illustrates projection?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.15701
+concept_filtered,projection,What common mistake should a student avoid when using projection?,1,1,1.0,mit_linear_algebra_md/fall2018/finalsol/finalsol.md,solution,0.08559
+concept_filtered,least_squares,How are least-squares problems solved?,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.07175
+concept_filtered,least_squares,Find a course explanation of least squares for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.14791
+concept_filtered,least_squares,Which worked example or exam solution illustrates least squares?,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.07652
+concept_filtered,least_squares,What common mistake should a student avoid when using least squares?,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.04694
+concept_filtered,positive_definite,How are eigenvalues used to test positive definiteness?,1,1,1.0,mit_linear_algebra_md/spring2015/FinalExamSp15_sol/FinalExamSp15_sol.md,solution,0.12109
+concept_filtered,positive_definite,Find a course explanation of positive definite matrices for final review.,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.19141
+concept_filtered,positive_definite,Which worked example or exam solution illustrates positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.25973
+concept_filtered,positive_definite,What common mistake should a student avoid when using positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.18495
+concept_filtered,svd,What do singular values describe in the SVD?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10/final-1806-f10.md,exam,0.44451
+concept_filtered,svd,Find a course explanation of singular value decomposition for final review.,1,1,1.0,mit_linear_algebra_md/spring2005/final-1806-S05/final-1806-S05.md,exam,0.20465
+concept_filtered,svd,Which worked example or exam solution illustrates SVD?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10-solution/final-1806-f10-solution.md,solution,0.15517
+concept_filtered,svd,What common mistake should a student avoid when using SVD?,1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.05079
+concept_filtered,rank,"Retrieve review material for this exam-style task: and Gauss's method gives that the only solution is the trivial one $c_1 = 0$ , $c_2 = 0$ , $c_3 = 0$ . With that, because the domain $V = \mathbb{R}^3$ is 3-dimensional, this linea",1,1,1.0,flipped_md/inclass/map/Three-IIc/Three-IIc.md,activity,0.2929
+concept_filtered,row_reduction,Retrieve review material for this exam-style task: Closed book exam (and no Calculators). Answer all 7 questions in the space provided (or direct us to the answer). Solutions will be posted outside the offices of Professor Kac (2–1,1,1,1.0,mit_linear_algebra_md/spring1998/final-98/final-98.md,exam,0.08595
+concept_filtered,column_space,Retrieve review material for this exam-style task: $$M^{-1}A_4M = \begin{pmatrix} 1 & & & \\ & -1 & & \\ & & 1 & \\ & & & -1 \end{pmatrix} \begin{pmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 2 & 0 \\ 0 & 2 & 0 & 3 \\ 0 & 0 & 3 & 0 \end{pmatri,1,1,1.0,slides_md/three/three_iii_handout/three_iii_handout.md,handout,0.29443
+concept_filtered,nullspace,Retrieve review material for this exam-style task: - (a) What are the dimensions of R(A) and N(A) and $N\left(A^{T}\right)$ ? - (b) True or False or Undecidable for this $A\colon\thinspace Ax=\begin{pmatrix} 0\\1\\0 \end{pmatrix}$,1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.2653
+concept_filtered,rank,"Retrieve review material for this exam-style task: - 7. (c) Circle True or False: if A has repeated eigenvalues, it is always possible to find an orthonormal basis for its column space. - 7. (d) Circle True or False: if $v_1,\ldots",1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.65792
+concept_filtered,rank,Retrieve review material for this exam-style task: - (a) Find $T\left(\begin{bmatrix}0\\1\end{bmatrix}\right)$ . - (b) What is the matrix A expressing T in terms of the standard basis vectors $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$,1,1,1.0,mit_linear_algebra_md/spring2005/final-sol-1806-S05/final-sol-1806-S05.md,solution,0.50227
+concept_filtered,rank,"Retrieve review material for this exam-style task: - 6 (13 pts.) In each case give all the information you can about the eigenvalues and eigenvectors, when the matrix A has the following property: - (a) The powers $A^k$ approach th",1,1,1.0,mit_linear_algebra_md/fall1999/final-solu-fall-99/final-solu-fall-99.md,solution,0.41882
+concept_filtered,rank,Retrieve review material for this exam-style task: - 1 (a) Explain why every eigenvector of A is either in the column space C(A) or the nullspace N(A) (or explain why this is false). - (b) From $A = S\Lambda S^{-1}$ find the eigenv,1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.23877
+concept_filtered,row_reduction,"Retrieve review material for this exam-style task: $$R = \left[ \begin{array}{rrrr} 1 & 3 & 0 & 2 \\ 0 & 0 & 1 & 5 \\ 0 & 0 & 0 & 0 \end{array} \right]$$ - (a) The four subspaces associated with the original A are N(A), C(A), $N(A^",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28622
+concept_filtered,rank,"Retrieve review material for this exam-style task: - (b) Find as many eigenvectors as possible, with the best possible properties. Are there 4 independent eigenvectors? Are there 4 orthonormal eigenvectors? - (c) What is the rank o",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28207
+concept_filtered,rank,"Retrieve review material for this exam-style task: - (a) What subspace does P project onto? - (b) What is the distance from that subspace to b = (1, 1, 1)? - (c) What are the three eigenvalues of P? Is P diagonalizable? | 4 | (a) S",1,1,1.0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.2978
+concept_filtered,row_reduction,"Retrieve review material for this exam-style task: - (a) Find an orthonormal basis $\boldsymbol{q}_1,\,\boldsymbol{q}_2$ for S by Gram-Schmidt. - (b) Write down the 3 by 3 matrix P which projects vectors perpendicularly onto S. - (",1,1,1.0,mit_linear_algebra_md/fall2002/finalsol/finalsol.md,solution,0.05086
+concept_filtered,basis_dimension,"Retrieve review material for this exam-style task: $$L = \begin{bmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ -2 & 3 & 1 \end{bmatrix}, U = \begin{bmatrix} 5 & 0 & 5 & 1 \\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}.$$ (a) What are the dime",1,1,1.0,mit_linear_algebra_md/spring1998/final-solu-98/final-solu-98.md,solution,0.7061
+concept_filtered,row_reduction,Retrieve review material for this exam-style task: - 2 (12 pts.) Keep the same matrix A as in Problem 1. - (a) Find the matrix P that projects any vector in $\mathbb{R}^4$ onto the subspace spanned by the first column of A. - (b) D,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.32148
+concept_filtered,nullspace,Retrieve review material for this exam-style task: - (b) An orthogonal set of 4 eigenvectors is \_\_\_\_\_\_ - (c) CIRCLE every class of matrices to which this matrix A belongs: 7 (12 pts.) Suppose A is 2 by 3 with this Singular Va,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.3799
+concept_filtered,row_reduction,Retrieve review material for this exam-style task: ## 1 Please circle your recitation: $\mathbf{2}$ 3 4 T 10 2-131 K. Meszaros 2-333 3-7826 karola 5 T 10 2-132 A. Barakat 2-172 3-4470 barakat 6 T 11 2-132 A. Barakat $2 - 172 \quad,1,1,1.0,mit_linear_algebra_md/fall2006/final-1806-F06/final-1806-F06.md,exam,0.64403
+lecture_only,linear_systems,How do row operations solve a linear system?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.1855
+lecture_only,linear_systems,Find a course explanation of linear systems for final review.,1,1,1.0,slides_md/one/one_i_allproofs/one_i_allproofs.md,lecture,0.09041
+lecture_only,linear_systems,Which worked example or exam solution illustrates linear system?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.11528
+lecture_only,linear_systems,What common mistake should a student avoid when using linear system?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.05313
+lecture_only,row_reduction,How do pivots and free variables appear in RREF?,1,1,1.0,slides_md/one/one_i_allproofs/one_i_allproofs.md,lecture,0.24703
+lecture_only,row_reduction,Find a course explanation of row reduction for final review.,1,1,1.0,slides_md/three/three_v_allproofs/three_v_allproofs.md,lecture,0.08175
+lecture_only,row_reduction,Which worked example or exam solution illustrates row reduction?,1,1,1.0,slides_md/one/one_iii/one_iii.md,lecture,0.11653
+lecture_only,row_reduction,What common mistake should a student avoid when using row reduction?,1,1,1.0,slides_md/three/three_v_allproofs/three_v_allproofs.md,lecture,0.06641
+lecture_only,rank,How is rank read from a row-reduced matrix?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.15273
+lecture_only,rank,Find a course explanation of rank for final review.,1,2,0.5,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07907
+lecture_only,rank,Which worked example or exam solution illustrates rank?,1,2,0.5,slides_md/one/one_iii/one_iii.md,lecture,0.09248
+lecture_only,rank,What common mistake should a student avoid when using rank?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.0676
+lecture_only,nullspace,How is a basis for the nullspace computed?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.06082
+lecture_only,nullspace,Find a course explanation of nullspace for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07828
+lecture_only,nullspace,Which worked example or exam solution illustrates nullspace?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.09096
+lecture_only,nullspace,What common mistake should a student avoid when using nullspace?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.04861
+lecture_only,column_space,How is the column space related to solvability of Ax=b?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.12617
+lecture_only,column_space,Find a course explanation of column space for final review.,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.13261
+lecture_only,column_space,Which worked example or exam solution illustrates column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.1768
+lecture_only,column_space,What common mistake should a student avoid when using column space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.09967
+lecture_only,basis_dimension,How do basis and dimension describe a vector space?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.34847
+lecture_only,basis_dimension,Find a course explanation of basis and dimension for final review.,1,1,1.0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.08942
+lecture_only,basis_dimension,Which worked example or exam solution illustrates basis?,1,2,0.5,slides_md/one/one_iii/one_iii.md,lecture,0.09417
+lecture_only,basis_dimension,What common mistake should a student avoid when using basis?,1,1,1.0,slides_md/two/two_iii/two_iii.md,lecture,0.06787
+lecture_only,linear_maps,How is a linear map represented by a matrix?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.27222
+lecture_only,linear_maps,Find a course explanation of linear maps for final review.,1,1,1.0,slides_md/three/three_ii/three_ii.md,lecture,0.09722
+lecture_only,linear_maps,Which worked example or exam solution illustrates linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.16468
+lecture_only,linear_maps,What common mistake should a student avoid when using linear map?,1,1,1.0,slides_md/three/three_iii/three_iii.md,lecture,0.11185
+lecture_only,change_of_basis,What does a change-of-basis matrix do?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.20794
+lecture_only,change_of_basis,Find a course explanation of change of basis for final review.,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.11653
+lecture_only,change_of_basis,Which worked example or exam solution illustrates change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.14401
+lecture_only,change_of_basis,What common mistake should a student avoid when using change of basis?,1,1,1.0,slides_md/three/three_v/three_v.md,lecture,0.09181
+lecture_only,determinants,How do row operations affect the determinant?,1,1,1.0,slides_md/two/two_iii_allproofs/two_iii_allproofs.md,lecture,0.17168
+lecture_only,determinants,Find a course explanation of determinants for final review.,1,4,0.25,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07654
+lecture_only,determinants,Which worked example or exam solution illustrates determinant?,1,1,1.0,slides_md/four/four_i/four_i.md,lecture,0.12704
+lecture_only,determinants,What common mistake should a student avoid when using determinant?,1,1,1.0,slides_md/four/four_i/four_i.md,lecture,0.07269
+lecture_only,eigenvalues,How are eigenvalues found from the characteristic polynomial?,1,1,1.0,slides_md/five/five_ii/five_ii.md,lecture,0.71003
+lecture_only,eigenvalues,Find a course explanation of eigenvalues and eigenvectors for final review.,1,3,0.3333333333333333,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07043
+lecture_only,eigenvalues,Which worked example or exam solution illustrates eigenvalue?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.09023
+lecture_only,eigenvalues,What common mistake should a student avoid when using eigenvalue?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.04844
+lecture_only,diagonalization,When is a matrix diagonalizable?,1,1,1.0,slides_md/five/five_ii/five_ii.md,lecture,0.17407
+lecture_only,diagonalization,Find a course explanation of diagonalization for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07282
+lecture_only,diagonalization,Which worked example or exam solution illustrates diagonalize?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.08087
+lecture_only,diagonalization,What common mistake should a student avoid when using diagonalize?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.0461
+lecture_only,orthogonality,How does Gram-Schmidt construct an orthonormal basis?,1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.08644
+lecture_only,orthogonality,Find a course explanation of orthogonality for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.06839
+lecture_only,orthogonality,Which worked example or exam solution illustrates orthogonal?,1,1,1.0,slides_md/three/three_vi/three_vi.md,lecture,0.09767
+lecture_only,orthogonality,What common mistake should a student avoid when using orthogonal?,1,1,1.0,slides_md/three/three_vi/three_vi.md,lecture,0.05575
+lecture_only,projection,How is an orthogonal projection computed?,1,1,1.0,slides_md/three/three_vi/three_vi.md,lecture,0.07255
+lecture_only,projection,Find a course explanation of projection for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07812
+lecture_only,projection,Which worked example or exam solution illustrates projection?,1,5,0.2,slides_md/one/one_iii/one_iii.md,lecture,0.09067
+lecture_only,projection,What common mistake should a student avoid when using projection?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.04368
+lecture_only,least_squares,How are least-squares problems solved?,1,3,0.3333333333333333,slides_md/one/one_ii/one_ii.md,lecture,0.04696
+lecture_only,least_squares,Find a course explanation of least squares for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.07662
+lecture_only,least_squares,Which worked example or exam solution illustrates least squares?,0,0,0,slides_md/one/one_iii/one_iii.md,lecture,0.08788
+lecture_only,least_squares,What common mistake should a student avoid when using least squares?,0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.04789
+lecture_only,positive_definite,How are eigenvalues used to test positive definiteness?,1,1,1.0,slides_md/five/five_ii/five_ii.md,lecture,0.02716
+lecture_only,positive_definite,Find a course explanation of positive definite matrices for final review.,1,3,0.3333333333333333,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.06194
+lecture_only,positive_definite,Which worked example or exam solution illustrates positive definite?,1,2,0.5,slides_md/one/one_iii/one_iii.md,lecture,0.0766
+lecture_only,positive_definite,What common mistake should a student avoid when using positive definite?,1,3,0.3333333333333333,slides_md/two/two_iii/two_iii.md,lecture,0.04488
+lecture_only,svd,What do singular values describe in the SVD?,1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.13922
+lecture_only,svd,Find a course explanation of singular value decomposition for final review.,0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.06158
+lecture_only,svd,Which worked example or exam solution illustrates SVD?,1,2,0.5,slides_md/one/one_iii/one_iii.md,lecture,0.08394
+lecture_only,svd,What common mistake should a student avoid when using SVD?,1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.05079
+lecture_only,rank,"Retrieve review material for this exam-style task: and Gauss's method gives that the only solution is the trivial one $c_1 = 0$ , $c_2 = 0$ , $c_3 = 0$ . With that, because the domain $V = \mathbb{R}^3$ is 3-dimensional, this linea",0,0,0,slides_md/two/two_iii/two_iii.md,lecture,0.14903
+lecture_only,row_reduction,Retrieve review material for this exam-style task: Closed book exam (and no Calculators). Answer all 7 questions in the space provided (or direct us to the answer). Solutions will be posted outside the offices of Professor Kac (2–1,0,0,0,mit_linear_algebra_md/spring2001没找到答案/f_1806S01/f_1806S01.md,lecture,0.06444
+lecture_only,column_space,Retrieve review material for this exam-style task: $$M^{-1}A_4M = \begin{pmatrix} 1 & & & \\ & -1 & & \\ & & 1 & \\ & & & -1 \end{pmatrix} \begin{pmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 2 & 0 \\ 0 & 2 & 0 & 3 \\ 0 & 0 & 3 & 0 \end{pmatri,0,0,0,slides_md/three/three_iv/three_iv.md,lecture,0.3836
+lecture_only,nullspace,Retrieve review material for this exam-style task: - (a) What are the dimensions of R(A) and N(A) and $N\left(A^{T}\right)$ ? - (b) True or False or Undecidable for this $A\colon\thinspace Ax=\begin{pmatrix} 0\\1\\0 \end{pmatrix}$,0,0,0,slides_md/three/three_v/three_v.md,lecture,0.14157
+lecture_only,rank,"Retrieve review material for this exam-style task: - 7. (c) Circle True or False: if A has repeated eigenvalues, it is always possible to find an orthonormal basis for its column space. - 7. (d) Circle True or False: if $v_1,\ldots",1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.05899
+lecture_only,rank,Retrieve review material for this exam-style task: - (a) Find $T\left(\begin{bmatrix}0\\1\end{bmatrix}\right)$ . - (b) What is the matrix A expressing T in terms of the standard basis vectors $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$,1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.40759
+lecture_only,rank,"Retrieve review material for this exam-style task: - 6 (13 pts.) In each case give all the information you can about the eigenvalues and eigenvectors, when the matrix A has the following property: - (a) The powers $A^k$ approach th",0,0,0,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.03575
+lecture_only,rank,Retrieve review material for this exam-style task: - 1 (a) Explain why every eigenvector of A is either in the column space C(A) or the nullspace N(A) (or explain why this is false). - (b) From $A = S\Lambda S^{-1}$ find the eigenv,1,3,0.3333333333333333,slides_md/five/five_i/five_i.md,lecture,0.07555
+lecture_only,row_reduction,"Retrieve review material for this exam-style task: $$R = \left[ \begin{array}{rrrr} 1 & 3 & 0 & 2 \\ 0 & 0 & 1 & 5 \\ 0 & 0 & 0 & 0 \end{array} \right]$$ - (a) The four subspaces associated with the original A are N(A), C(A), $N(A^",1,3,0.3333333333333333,slides_md/two/two_i/two_i.md,lecture,0.10439
+lecture_only,rank,"Retrieve review material for this exam-style task: - (b) Find as many eigenvectors as possible, with the best possible properties. Are there 4 independent eigenvectors? Are there 4 orthonormal eigenvectors? - (c) What is the rank o",1,3,0.3333333333333333,slides_md/five/five_ii/five_ii.md,lecture,0.039
+lecture_only,rank,"Retrieve review material for this exam-style task: - (a) What subspace does P project onto? - (b) What is the distance from that subspace to b = (1, 1, 1)? - (c) What are the three eigenvalues of P? Is P diagonalizable? | 4 | (a) S",0,0,0,slides_md/three/three_ii_allproofs/three_ii_allproofs.md,lecture,0.07782
+lecture_only,row_reduction,"Retrieve review material for this exam-style task: - (a) Find an orthonormal basis $\boldsymbol{q}_1,\,\boldsymbol{q}_2$ for S by Gram-Schmidt. - (b) Write down the 3 by 3 matrix P which projects vectors perpendicularly onto S. - (",1,3,0.3333333333333333,slides_md/three/three_iii_allproofs/three_iii_allproofs.md,lecture,0.04366
+lecture_only,basis_dimension,"Retrieve review material for this exam-style task: $$L = \begin{bmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ -2 & 3 & 1 \end{bmatrix}, U = \begin{bmatrix} 5 & 0 & 5 & 1 \\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}.$$ (a) What are the dime",1,1,1.0,mit_linear_algebra_md/fall2001没找到答案/f_1806F01/f_1806F01.md,lecture,0.5631
+lecture_only,row_reduction,Retrieve review material for this exam-style task: - 2 (12 pts.) Keep the same matrix A as in Problem 1. - (a) Find the matrix P that projects any vector in $\mathbb{R}^4$ onto the subspace spanned by the first column of A. - (b) D,0,0,0,slides_md/three/three_ii_allproofs/three_ii_allproofs.md,lecture,0.07585
+lecture_only,nullspace,Retrieve review material for this exam-style task: - (b) An orthogonal set of 4 eigenvectors is \_\_\_\_\_\_ - (c) CIRCLE every class of matrices to which this matrix A belongs: 7 (12 pts.) Suppose A is 2 by 3 with this Singular Va,0,0,0,slides_md/three/three_v/three_v.md,lecture,0.04825
+lecture_only,row_reduction,Retrieve review material for this exam-style task: ## 1 Please circle your recitation: $\mathbf{2}$ 3 4 T 10 2-131 K. Meszaros 2-333 3-7826 karola 5 T 10 2-132 A. Barakat 2-172 3-4470 barakat 6 T 11 2-132 A. Barakat $2 - 172 \quad,0,0,0,slides_md/three/three_i_allproofs/three_i_allproofs.md,lecture,0.043
+exam_only,linear_systems,How do row operations solve a linear system?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.10894
+exam_only,linear_systems,Find a course explanation of linear systems for final review.,0,0,0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.08531
+exam_only,linear_systems,Which worked example or exam solution illustrates linear system?,0,0,0,mit_linear_algebra_md/spring2010/18.06-Final-Sp2010/18.06-Final-Sp2010.md,exam,0.05896
+exam_only,linear_systems,What common mistake should a student avoid when using linear system?,0,0,0,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04312
+exam_only,row_reduction,How do pivots and free variables appear in RREF?,1,1,1.0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.07719
+exam_only,row_reduction,Find a course explanation of row reduction for final review.,1,2,0.5,mit_linear_algebra_md/spring2019/final/final.md,exam,0.0801
+exam_only,row_reduction,Which worked example or exam solution illustrates row reduction?,1,1,1.0,mit_linear_algebra_md/spring2008/final-1806-S08/final-1806-S08.md,exam,0.0821
+exam_only,row_reduction,What common mistake should a student avoid when using row reduction?,1,1,1.0,mit_linear_algebra_md/spring2021/Final/Final.md,exam,0.05227
+exam_only,rank,How is rank read from a row-reduced matrix?,1,2,0.5,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.06849
+exam_only,rank,Find a course explanation of rank for final review.,1,5,0.2,mit_linear_algebra_md/spring2019/final/final.md,exam,0.09454
+exam_only,rank,Which worked example or exam solution illustrates rank?,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.05398
+exam_only,rank,What common mistake should a student avoid when using rank?,1,1,1.0,mit_linear_algebra_md/fall2008/final1806-f08/final1806-f08.md,exam,0.0607
+exam_only,nullspace,How is a basis for the nullspace computed?,1,2,0.5,mit_linear_algebra_md/spring2007/final/final.md,exam,0.11449
+exam_only,nullspace,Find a course explanation of nullspace for final review.,1,3,0.3333333333333333,mit_linear_algebra_md/spring2019/final/final.md,exam,0.09358
+exam_only,nullspace,Which worked example or exam solution illustrates nullspace?,1,1,1.0,mit_linear_algebra_md/spring1998/final-98/final-98.md,exam,0.05703
+exam_only,nullspace,What common mistake should a student avoid when using nullspace?,1,3,0.3333333333333333,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04252
+exam_only,column_space,How is the column space related to solvability of Ax=b?,1,1,1.0,mit_linear_algebra_md/spring2004/final_1806_S04/final_1806_S04.md,exam,0.11021
+exam_only,column_space,Find a course explanation of column space for final review.,1,1,1.0,mit_linear_algebra_md/spring2004/final_1806_S04/final_1806_S04.md,exam,0.11584
+exam_only,column_space,Which worked example or exam solution illustrates column space?,1,1,1.0,mit_linear_algebra_md/spring2004/final_1806_S04/final_1806_S04.md,exam,0.1439
+exam_only,column_space,What common mistake should a student avoid when using column space?,1,1,1.0,mit_linear_algebra_md/spring2004/final_1806_S04/final_1806_S04.md,exam,0.08706
+exam_only,basis_dimension,How do basis and dimension describe a vector space?,1,2,0.5,mit_linear_algebra_md/fall2022/final/final.md,exam,0.09102
+exam_only,basis_dimension,Find a course explanation of basis and dimension for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.07953
+exam_only,basis_dimension,Which worked example or exam solution illustrates basis?,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.05497
+exam_only,basis_dimension,What common mistake should a student avoid when using basis?,1,4,0.25,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04313
+exam_only,linear_maps,How is a linear map represented by a matrix?,1,1,1.0,flipped_md/handin/final/final.md,exam,0.05724
+exam_only,linear_maps,Find a course explanation of linear maps for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.08741
+exam_only,linear_maps,Which worked example or exam solution illustrates linear map?,0,0,0,mit_linear_algebra_md/spring2010/18.06-Final-Sp2010/18.06-Final-Sp2010.md,exam,0.05261
+exam_only,linear_maps,What common mistake should a student avoid when using linear map?,1,5,0.2,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04104
+exam_only,change_of_basis,What does a change-of-basis matrix do?,1,1,1.0,mit_linear_algebra_md/spring2004/final_1806_S04/final_1806_S04.md,exam,0.06004
+exam_only,change_of_basis,Find a course explanation of change of basis for final review.,0,0,0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.08312
+exam_only,change_of_basis,Which worked example or exam solution illustrates change of basis?,0,0,0,mit_linear_algebra_md/spring2010/18.06-Final-Sp2010/18.06-Final-Sp2010.md,exam,0.06822
+exam_only,change_of_basis,What common mistake should a student avoid when using change of basis?,0,0,0,mit_linear_algebra_md/fall2022/final/final.md,exam,0.03593
+exam_only,determinants,How do row operations affect the determinant?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.12153
+exam_only,determinants,Find a course explanation of determinants for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.09151
+exam_only,determinants,Which worked example or exam solution illustrates determinant?,1,1,1.0,mit_linear_algebra_md/spring2022/final/final.md,exam,0.0616
+exam_only,determinants,What common mistake should a student avoid when using determinant?,1,1,1.0,mit_linear_algebra_md/fall2008/final1806-f08/final1806-f08.md,exam,0.0656
+exam_only,eigenvalues,How are eigenvalues found from the characteristic polynomial?,1,1,1.0,mit_linear_algebra_md/spring2021/Final/Final.md,exam,0.13467
+exam_only,eigenvalues,Find a course explanation of eigenvalues and eigenvectors for final review.,1,2,0.5,mit_linear_algebra_md/spring2019/final/final.md,exam,0.0842
+exam_only,eigenvalues,Which worked example or exam solution illustrates eigenvalue?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.06392
+exam_only,eigenvalues,What common mistake should a student avoid when using eigenvalue?,1,1,1.0,mit_linear_algebra_md/spring2009/final-s09/final-s09.md,exam,0.05095
+exam_only,diagonalization,When is a matrix diagonalizable?,1,1,1.0,mit_linear_algebra_md/spring2016/final/final.md,exam,0.41004
+exam_only,diagonalization,Find a course explanation of diagonalization for final review.,1,2,0.5,mit_linear_algebra_md/spring2019/final/final.md,exam,0.08706
+exam_only,diagonalization,Which worked example or exam solution illustrates diagonalize?,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.0472
+exam_only,diagonalization,What common mistake should a student avoid when using diagonalize?,1,4,0.25,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04032
+exam_only,orthogonality,How does Gram-Schmidt construct an orthonormal basis?,1,1,1.0,mit_linear_algebra_md/spring2009/final-s09/final-s09.md,exam,0.31538
+exam_only,orthogonality,Find a course explanation of orthogonality for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.08176
+exam_only,orthogonality,Which worked example or exam solution illustrates orthogonal?,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.05366
+exam_only,orthogonality,What common mistake should a student avoid when using orthogonal?,1,3,0.3333333333333333,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04271
+exam_only,projection,How is an orthogonal projection computed?,1,2,0.5,mit_linear_algebra_md/spring2007/final/final.md,exam,0.11216
+exam_only,projection,Find a course explanation of projection for final review.,1,2,0.5,mit_linear_algebra_md/spring2019/final/final.md,exam,0.0934
+exam_only,projection,Which worked example or exam solution illustrates projection?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.10246
+exam_only,projection,What common mistake should a student avoid when using projection?,1,1,1.0,mit_linear_algebra_md/spring2007/final/final.md,exam,0.05999
+exam_only,least_squares,How are least-squares problems solved?,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.07175
+exam_only,least_squares,Find a course explanation of least squares for final review.,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.14791
+exam_only,least_squares,Which worked example or exam solution illustrates least squares?,1,1,1.0,mit_linear_algebra_md/spring2019/final/final.md,exam,0.07652
+exam_only,least_squares,What common mistake should a student avoid when using least squares?,1,3,0.3333333333333333,mit_linear_algebra_md/fall2022/final/final.md,exam,0.05748
+exam_only,positive_definite,How are eigenvalues used to test positive definiteness?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.09034
+exam_only,positive_definite,Find a course explanation of positive definite matrices for final review.,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.19141
+exam_only,positive_definite,Which worked example or exam solution illustrates positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.25973
+exam_only,positive_definite,What common mistake should a student avoid when using positive definite?,1,1,1.0,mit_linear_algebra_md/spring2013/Examfblank/Examfblank.md,exam,0.18495
+exam_only,svd,What do singular values describe in the SVD?,1,1,1.0,mit_linear_algebra_md/fall2010/final-1806-f10/final-1806-f10.md,exam,0.44451
+exam_only,svd,Find a course explanation of singular value decomposition for final review.,1,1,1.0,mit_linear_algebra_md/spring2005/final-1806-S05/final-1806-S05.md,exam,0.20465
+exam_only,svd,Which worked example or exam solution illustrates SVD?,1,3,0.3333333333333333,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.04899
+exam_only,svd,What common mistake should a student avoid when using SVD?,1,4,0.25,mit_linear_algebra_md/fall2022/final/final.md,exam,0.04104
+exam_only,rank,"Retrieve review material for this exam-style task: and Gauss's method gives that the only solution is the trivial one $c_1 = 0$ , $c_2 = 0$ , $c_3 = 0$ . With that, because the domain $V = \mathbb{R}^3$ is 3-dimensional, this linea",0,0,0,flipped_md/handin/midterm/midterm.md,exam,0.10122
+exam_only,row_reduction,Retrieve review material for this exam-style task: Closed book exam (and no Calculators). Answer all 7 questions in the space provided (or direct us to the answer). Solutions will be posted outside the offices of Professor Kac (2–1,1,2,0.5,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.57025
+exam_only,column_space,Retrieve review material for this exam-style task: $$M^{-1}A_4M = \begin{pmatrix} 1 & & & \\ & -1 & & \\ & & 1 & \\ & & & -1 \end{pmatrix} \begin{pmatrix} 0 & 1 & 0 & 0 \\ 1 & 0 & 2 & 0 \\ 0 & 2 & 0 & 3 \\ 0 & 0 & 3 & 0 \end{pmatri,1,3,0.3333333333333333,flipped_md/handin/final/final.md,exam,0.2962
+exam_only,nullspace,Retrieve review material for this exam-style task: - (a) What are the dimensions of R(A) and N(A) and $N\left(A^{T}\right)$ ? - (b) True or False or Undecidable for this $A\colon\thinspace Ax=\begin{pmatrix} 0\\1\\0 \end{pmatrix}$,1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.2653
+exam_only,rank,"Retrieve review material for this exam-style task: - 7. (c) Circle True or False: if A has repeated eigenvalues, it is always possible to find an orthonormal basis for its column space. - 7. (d) Circle True or False: if $v_1,\ldots",1,1,1.0,mit_linear_algebra_md/1995n1993没找到答案/final-95/final-95.md,exam,0.65792
+exam_only,rank,Retrieve review material for this exam-style task: - (a) Find $T\left(\begin{bmatrix}0\\1\end{bmatrix}\right)$ . - (b) What is the matrix A expressing T in terms of the standard basis vectors $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$,1,2,0.5,mit_linear_algebra_md/fall1999/final-fall-99/final-fall-99.md,exam,0.55775
+exam_only,rank,"Retrieve review material for this exam-style task: - 6 (13 pts.) In each case give all the information you can about the eigenvalues and eigenvectors, when the matrix A has the following property: - (a) The powers $A^k$ approach th",1,1,1.0,mit_linear_algebra_md/fall1999/final-fall-99/final-fall-99.md,exam,0.28715
+exam_only,rank,Retrieve review material for this exam-style task: - 1 (a) Explain why every eigenvector of A is either in the column space C(A) or the nullspace N(A) (or explain why this is false). - (b) From $A = S\Lambda S^{-1}$ find the eigenv,1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.23877
+exam_only,row_reduction,"Retrieve review material for this exam-style task: $$R = \left[ \begin{array}{rrrr} 1 & 3 & 0 & 2 \\ 0 & 0 & 1 & 5 \\ 0 & 0 & 0 & 0 \end{array} \right]$$ - (a) The four subspaces associated with the original A are N(A), C(A), $N(A^",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28622
+exam_only,rank,"Retrieve review material for this exam-style task: - (b) Find as many eigenvectors as possible, with the best possible properties. Are there 4 independent eigenvectors? Are there 4 orthonormal eigenvectors? - (c) What is the rank o",1,1,1.0,mit_linear_algebra_md/fall2000/final-fall-00/final-fall-00.md,exam,0.28207
+exam_only,rank,"Retrieve review material for this exam-style task: - (a) What subspace does P project onto? - (b) What is the distance from that subspace to b = (1, 1, 1)? - (c) What are the three eigenvalues of P? Is P diagonalizable? | 4 | (a) S",1,1,1.0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.2978
+exam_only,row_reduction,"Retrieve review material for this exam-style task: - (a) Find an orthonormal basis $\boldsymbol{q}_1,\,\boldsymbol{q}_2$ for S by Gram-Schmidt. - (b) Write down the 3 by 3 matrix P which projects vectors perpendicularly onto S. - (",0,0,0,mit_linear_algebra_md/fall2002/final/final.md,exam,0.40082
+exam_only,basis_dimension,"Retrieve review material for this exam-style task: $$L = \begin{bmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ -2 & 3 & 1 \end{bmatrix}, U = \begin{bmatrix} 5 & 0 & 5 & 1 \\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}.$$ (a) What are the dime",1,1,1.0,mit_linear_algebra_md/spring2015/FinalExamSp15/FinalExamSp15.md,exam,0.45987
+exam_only,row_reduction,Retrieve review material for this exam-style task: - 2 (12 pts.) Keep the same matrix A as in Problem 1. - (a) Find the matrix P that projects any vector in $\mathbb{R}^4$ onto the subspace spanned by the first column of A. - (b) D,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.32148
+exam_only,nullspace,Retrieve review material for this exam-style task: - (b) An orthogonal set of 4 eigenvectors is \_\_\_\_\_\_ - (c) CIRCLE every class of matrices to which this matrix A belongs: 7 (12 pts.) Suppose A is 2 by 3 with this Singular Va,1,1,1.0,mit_linear_algebra_md/fall2005/final-1806-F05/final-1806-F05.md,exam,0.3799
+exam_only,row_reduction,Retrieve review material for this exam-style task: ## 1 Please circle your recitation: $\mathbf{2}$ 3 4 T 10 2-131 K. Meszaros 2-333 3-7826 karola 5 T 10 2-132 A. Barakat 2-172 3-4470 barakat 6 T 11 2-132 A. Barakat $2 - 172 \quad,1,1,1.0,mit_linear_algebra_md/fall2006/final-1806-F06/final-1806-F06.md,exam,0.64403

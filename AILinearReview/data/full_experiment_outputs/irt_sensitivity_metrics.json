@@ -1,0 +1,38 @@
+{
+  "random_within_target": {
+    "trials": 26,
+    "mean_candidate_count": 28.69,
+    "weak_concept_coverage": 1,
+    "difficulty_hit_rate_0_5": 0.077,
+    "difficulty_hit_rate_0_75": 0.077,
+    "difficulty_match_error": 1.25,
+    "mean_item_information": 0.171
+  },
+  "syllabus_ranked": {
+    "trials": 26,
+    "mean_candidate_count": 28.69,
+    "weak_concept_coverage": 1,
+    "difficulty_hit_rate_0_5": 0.231,
+    "difficulty_hit_rate_0_75": 0.269,
+    "difficulty_match_error": 0.964,
+    "mean_item_information": 0.195
+  },
+  "difficulty_only": {
+    "trials": 26,
+    "mean_candidate_count": 28.69,
+    "weak_concept_coverage": 1,
+    "difficulty_hit_rate_0_5": 0.615,
+    "difficulty_hit_rate_0_75": 0.731,
+    "difficulty_match_error": 0.459,
+    "mean_item_information": 0.233
+  },
+  "graph_irt": {
+    "trials": 26,
+    "mean_candidate_count": 28.69,
+    "weak_concept_coverage": 1,
+    "difficulty_hit_rate_0_5": 0.538,
+    "difficulty_hit_rate_0_75": 0.731,
+    "difficulty_match_error": 0.512,
+    "mean_item_information": 0.23
+  }
+}

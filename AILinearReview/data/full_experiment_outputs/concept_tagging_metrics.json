@@ -1,0 +1,11 @@
+{
+  "items": 36,
+  "micro_precision": 0.795,
+  "micro_recall": 0.795,
+  "micro_f1": 0.795,
+  "macro_precision": 0.874,
+  "macro_recall": 0.739,
+  "macro_f1": 0.751,
+  "mean_jaccard": 0.491,
+  "label_type": "keyword-derived silver labels"
+}

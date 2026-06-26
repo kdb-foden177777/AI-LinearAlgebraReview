@@ -1,0 +1,255 @@
+{
+  "query_count": 160,
+  "conditions": [
+    {
+      "condition": "concept_filtered",
+      "queries": 160,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "exam_only",
+      "queries": 160,
+      "success_at_1": 0.6,
+      "success_at_5": 0.825,
+      "mrr_at_5": 0.69,
+      "ndcg_at_5": 0.712
+    },
+    {
+      "condition": "lecture_only",
+      "queries": 160,
+      "success_at_1": 0.362,
+      "success_at_5": 0.65,
+      "mrr_at_5": 0.456,
+      "ndcg_at_5": 0.509
+    },
+    {
+      "condition": "lexical",
+      "queries": 160,
+      "success_at_1": 0.669,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.751,
+      "ndcg_at_5": 0.771
+    }
+  ],
+  "by_type": [
+    {
+      "condition": "concept_filtered",
+      "query_type": "direct_concept",
+      "queries": 16,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "concept_filtered",
+      "query_type": "exam_fragment",
+      "queries": 80,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "concept_filtered",
+      "query_type": "misconception",
+      "queries": 16,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "concept_filtered",
+      "query_type": "multi_concept_review",
+      "queries": 16,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "concept_filtered",
+      "query_type": "vague_student_question",
+      "queries": 16,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "concept_filtered",
+      "query_type": "worked_example",
+      "queries": 16,
+      "success_at_1": 1.0,
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "direct_concept",
+      "queries": 16,
+      "success_at_1": 0.5,
+      "success_at_5": 0.812,
+      "mrr_at_5": 0.635,
+      "ndcg_at_5": 0.662
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "exam_fragment",
+      "queries": 80,
+      "success_at_1": 0.613,
+      "success_at_5": 0.8,
+      "mrr_at_5": 0.692,
+      "ndcg_at_5": 0.703
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "misconception",
+      "queries": 16,
+      "success_at_1": 0.438,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.591,
+      "ndcg_at_5": 0.657
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "multi_concept_review",
+      "queries": 16,
+      "success_at_1": 0.5,
+      "success_at_5": 0.812,
+      "mrr_at_5": 0.622,
+      "ndcg_at_5": 0.685
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "vague_student_question",
+      "queries": 16,
+      "success_at_1": 0.812,
+      "success_at_5": 0.812,
+      "mrr_at_5": 0.812,
+      "ndcg_at_5": 0.808
+    },
+    {
+      "condition": "exam_only",
+      "query_type": "worked_example",
+      "queries": 16,
+      "success_at_1": 0.688,
+      "success_at_5": 0.938,
+      "mrr_at_5": 0.778,
+      "ndcg_at_5": 0.79
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "direct_concept",
+      "queries": 16,
+      "success_at_1": 0.25,
+      "success_at_5": 0.688,
+      "mrr_at_5": 0.408,
+      "ndcg_at_5": 0.487
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "exam_fragment",
+      "queries": 80,
+      "success_at_1": 0.3,
+      "success_at_5": 0.525,
+      "mrr_at_5": 0.368,
+      "ndcg_at_5": 0.408
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "misconception",
+      "queries": 16,
+      "success_at_1": 0.562,
+      "success_at_5": 0.688,
+      "mrr_at_5": 0.596,
+      "ndcg_at_5": 0.618
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "multi_concept_review",
+      "queries": 16,
+      "success_at_1": 0.375,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.523,
+      "ndcg_at_5": 0.633
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "vague_student_question",
+      "queries": 16,
+      "success_at_1": 0.312,
+      "success_at_5": 0.75,
+      "mrr_at_5": 0.479,
+      "ndcg_at_5": 0.555
+    },
+    {
+      "condition": "lecture_only",
+      "query_type": "worked_example",
+      "queries": 16,
+      "success_at_1": 0.625,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.708,
+      "ndcg_at_5": 0.762
+    },
+    {
+      "condition": "lexical",
+      "query_type": "direct_concept",
+      "queries": 16,
+      "success_at_1": 0.312,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.552,
+      "ndcg_at_5": 0.658
+    },
+    {
+      "condition": "lexical",
+      "query_type": "exam_fragment",
+      "queries": 80,
+      "success_at_1": 0.688,
+      "success_at_5": 0.863,
+      "mrr_at_5": 0.752,
+      "ndcg_at_5": 0.76
+    },
+    {
+      "condition": "lexical",
+      "query_type": "misconception",
+      "queries": 16,
+      "success_at_1": 0.75,
+      "success_at_5": 0.812,
+      "mrr_at_5": 0.771,
+      "ndcg_at_5": 0.773
+    },
+    {
+      "condition": "lexical",
+      "query_type": "multi_concept_review",
+      "queries": 16,
+      "success_at_1": 0.75,
+      "success_at_5": 0.938,
+      "mrr_at_5": 0.844,
+      "ndcg_at_5": 0.858
+    },
+    {
+      "condition": "lexical",
+      "query_type": "vague_student_question",
+      "queries": 16,
+      "success_at_1": 0.625,
+      "success_at_5": 0.875,
+      "mrr_at_5": 0.721,
+      "ndcg_at_5": 0.737
+    },
+    {
+      "condition": "lexical",
+      "query_type": "worked_example",
+      "queries": 16,
+      "success_at_1": 0.812,
+      "success_at_5": 0.938,
+      "mrr_at_5": 0.859,
+      "ndcg_at_5": 0.886
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+condition,removed_component,primary_metric,direction,full_value,ablated_value,raw_change,effect_on_quality
+A1 no syllabus alignment,M1 syllabus alignment,Alignment score,higher is better,0.472,0.469,-0.003,-0.003
+A2 no mastery loop,M4 mastery loop,Weak-concept coverage,higher is better,0.979,0.604,-0.375,-0.375
+A3 no retrieval,M2 retrieval,Retrieval MRR@5,higher is better,1.0,0.0,-1.0,-1.0
+A3 no retrieval,M2 retrieval,Grounding support proxy,higher is better,0.65,0.0,-0.65,-0.65
+A4 no dependency propagation,prerequisite propagation,Prerequisite risk flag,lower is better,0.854,0.896,0.042,-0.042
+A5 no IRT adaptation,E2 IRT weighting,Difficulty match error,lower is better,1.317,1.322,0.005,-0.005
+A6 fixed dialogue flow,E1 dialogue agent,Dialogue flexibility,higher is better,0.915,0.25,-0.665,-0.665

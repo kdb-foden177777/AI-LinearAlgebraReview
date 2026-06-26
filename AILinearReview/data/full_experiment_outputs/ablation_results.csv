@@ -1,0 +1,8 @@
+condition,removed_component,alignment_score,weak_concept_coverage,upstream_prereq_coverage,retrieval_mrr_at_5,grounding_support_proxy,difficulty_match_error,prerequisite_risk_flag,dialogue_flexibility,items_selected,retrieval_queries,dialogue_tasks
+A0 full system,-,0.472,0.979,1,1.0,0.65,1.317,0.854,0.915,48,80,144
+A1 no syllabus alignment,M1 syllabus alignment,0.469,0.979,1,1.0,0.65,1.298,0.833,0.915,48,80,144
+A2 no mastery loop,M4 mastery loop,0.577,0.604,1,1.0,0.65,0.698,0.542,0.915,48,80,144
+A3 no retrieval,M2 retrieval,0.472,0.979,1,0.0,0.0,1.317,0.854,0.915,48,80,144
+A4 no dependency propagation,prerequisite propagation,0.459,1,1,1.0,0.65,1.297,0.896,0.915,48,80,144
+A5 no IRT adaptation,E2 IRT weighting,0.472,0.979,1,1.0,0.65,1.322,0.854,0.915,48,80,144
+A6 fixed dialogue flow,E1 dialogue agent,0.472,0.979,1,1.0,0.65,1.317,0.854,0.25,48,80,144

@@ -1,0 +1,48 @@
+{
+  "folders": [
+    {
+      "folder": "slides_md",
+      "files": 54,
+      "lines": 22873,
+      "chars": 1309998,
+      "approx_tokens": 327500,
+      "short_files": 0,
+      "roles": {
+        "lecture": 36,
+        "handout": 18
+      }
+    },
+    {
+      "folder": "flipped_md",
+      "files": 81,
+      "lines": 4679,
+      "chars": 192308,
+      "approx_tokens": 48077,
+      "short_files": 27,
+      "roles": {
+        "exam": 2,
+        "activity": 77,
+        "solution": 2
+      }
+    },
+    {
+      "folder": "mit_linear_algebra_md",
+      "files": 65,
+      "lines": 10280,
+      "chars": 676584,
+      "approx_tokens": 169146,
+      "short_files": 0,
+      "roles": {
+        "exam": 33,
+        "solution": 30,
+        "lecture": 2
+      }
+    }
+  ],
+  "total": {
+    "files": 200,
+    "lines": 37832,
+    "chars": 2178890,
+    "approx_tokens": 544723
+  }
+}

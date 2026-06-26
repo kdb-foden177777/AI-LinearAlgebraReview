@@ -1,0 +1,17 @@
+concept,support,tp,fp,fn,precision,recall,f1
+basis_dimension,57,46,21,11,0.687,0.807,0.742
+change_of_basis,19,18,56,1,0.243,0.947,0.387
+column_space,31,26,42,5,0.382,0.839,0.525
+determinants,28,25,46,3,0.352,0.893,0.505
+diagonalization,9,9,65,0,0.122,1.0,0.217
+eigenvalues,46,45,28,1,0.616,0.978,0.756
+least_squares,10,10,64,0,0.135,1.0,0.238
+linear_maps,14,12,59,2,0.169,0.857,0.282
+linear_systems,14,14,62,0,0.184,1.0,0.311
+nullspace,33,31,39,2,0.443,0.939,0.602
+orthogonality,36,36,36,0,0.5,1.0,0.667
+positive_definite,21,21,51,0,0.292,1.0,0.452
+projection,27,26,47,1,0.356,0.963,0.52
+rank,29,26,43,3,0.377,0.897,0.531
+row_reduction,19,18,49,1,0.269,0.947,0.419
+svd,14,13,59,1,0.181,0.929,0.302

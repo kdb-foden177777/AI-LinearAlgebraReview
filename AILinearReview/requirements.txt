@@ -1,0 +1,53 @@
+# Marker PDF to Markdown - Environment Setup
+# ============================================
+#
+# Prerequisites:
+#   - Python 3.11 ~ 3.13 (Python 3.14 is NOT recommended, Pillow < 11 has no prebuilt wheel for 3.14)
+#   - PyTorch (install manually first: https://pytorch.org/get-started/locally/)
+#
+# Setup steps:
+#   1. python -m venv .venv
+#   2. .venv\Scripts\activate   (Windows)  or  source .venv/bin/activate  (Mac/Linux)
+#   3. pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   4. pip install -r requirements.txt
+#   5. marker_single your_file.pdf --output_dir ./output --force_ocr
+#
+# Note on --force_ocr:
+#   - Recommended for math-heavy PDFs (converts inline math to LaTeX)
+#   - Skip this flag for plain-text PDFs (much faster, uses embedded text directly)
+#
+# Total download size: ~2-3 GB (mostly model weights, downloaded on first run)
+
+# === Core: Marker PDF converter ===
+marker-pdf==1.10.2
+
+# === Pinned dependencies (from surya-ocr 0.17.1 constraint chain) ===
+surya-ocr==0.17.1
+transformers>=4.45.2,<5
+huggingface-hub>=0.26,<1
+tokenizers>=0.21,<0.23
+pillow>=10.1,<11
+
+# === ML/OCR stack (versions matter — don't float) ===
+torch>=2.7.0,<3
+scikit-learn>=1.6.1,<2
+openai>=1.65.2,<2
+pydantic>=2.4.2,<3
+pydantic-settings>=2.0.3
+regex>=2024.4.28,<2025
+rapidfuzz>=3.8.1,<4
+ftfy>=6.1.1,<7
+markdownify>=1.1.0,<2
+markdown2>=2.5.2,<3
+pdftext>=0.6.3,<0.7
+filetype>=1.2.0,<2
+tqdm>=4.66.1,<5
+click>=8.2.0,<9
+python-dotenv>=1.0.0
+
+# === LLM services (optional but marker imports them) ===
+anthropic>=0.46.0,<0.47
+google-genai>=1.0.0,<2
+
+# === Extra packages that may be needed at runtime ===
+pre-commit>=4.2.0    # marker dependency

@@ -1,0 +1,86 @@
+[
+  {
+    "removed_component": "-",
+    "syllabus_alignment": true,
+    "mastery_loop": true,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": true,
+    "irt": true,
+    "dialogue_agent": true,
+    "condition": "A0 full system"
+  },
+  {
+    "removed_component": "M1 syllabus alignment",
+    "syllabus_alignment": false,
+    "mastery_loop": true,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": true,
+    "irt": true,
+    "dialogue_agent": true,
+    "condition": "A1 no syllabus alignment"
+  },
+  {
+    "removed_component": "M4 mastery loop",
+    "syllabus_alignment": true,
+    "mastery_loop": false,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": true,
+    "irt": true,
+    "dialogue_agent": true,
+    "condition": "A2 no mastery loop"
+  },
+  {
+    "removed_component": "M2 retrieval",
+    "syllabus_alignment": true,
+    "mastery_loop": true,
+    "retrieval": false,
+    "concept_filter": false,
+    "rag_grounding": false,
+    "dependency_propagation": true,
+    "irt": true,
+    "dialogue_agent": true,
+    "condition": "A3 no retrieval"
+  },
+  {
+    "removed_component": "prerequisite propagation",
+    "syllabus_alignment": true,
+    "mastery_loop": true,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": false,
+    "irt": true,
+    "dialogue_agent": true,
+    "condition": "A4 no dependency propagation"
+  },
+  {
+    "removed_component": "E2 IRT weighting",
+    "syllabus_alignment": true,
+    "mastery_loop": true,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": true,
+    "irt": false,
+    "dialogue_agent": true,
+    "condition": "A5 no IRT adaptation"
+  },
+  {
+    "removed_component": "E1 dialogue agent",
+    "syllabus_alignment": true,
+    "mastery_loop": true,
+    "retrieval": true,
+    "concept_filter": true,
+    "rag_grounding": true,
+    "dependency_propagation": true,
+    "irt": true,
+    "dialogue_agent": false,
+    "condition": "A6 fixed dialogue flow"
+  }
+]

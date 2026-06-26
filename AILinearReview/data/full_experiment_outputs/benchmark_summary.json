@@ -1,0 +1,33 @@
+{
+  "items": 106,
+  "by_role": {
+    "activity": 20,
+    "exam": 68,
+    "lecture": 11,
+    "handout": 7
+  },
+  "by_folder": {
+    "flipped_md": 21,
+    "mit_linear_algebra_md": 67,
+    "slides_md": 18
+  },
+  "by_concept": {
+    "rank": 38,
+    "nullspace": 45,
+    "column_space": 42,
+    "basis_dimension": 74,
+    "linear_maps": 20,
+    "row_reduction": 21,
+    "eigenvalues": 61,
+    "projection": 33,
+    "positive_definite": 26,
+    "change_of_basis": 25,
+    "determinants": 41,
+    "diagonalization": 17,
+    "orthogonality": 43,
+    "least_squares": 14,
+    "svd": 20,
+    "linear_systems": 19
+  },
+  "mean_difficulty_seed": 0.7416981132075472
+}

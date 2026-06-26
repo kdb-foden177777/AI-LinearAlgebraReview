@@ -1,0 +1,167 @@
+{
+  "model": "glm-4-flash",
+  "audit": {
+    "folders": [
+      {
+        "folder": "slides_md",
+        "files": 54,
+        "lines": 22873,
+        "chars": 1309998,
+        "approx_tokens": 327500,
+        "short_files": 0,
+        "roles": {
+          "lecture": 36,
+          "handout": 18
+        }
+      },
+      {
+        "folder": "flipped_md",
+        "files": 81,
+        "lines": 4679,
+        "chars": 192308,
+        "approx_tokens": 48077,
+        "short_files": 27,
+        "roles": {
+          "exam": 2,
+          "activity": 77,
+          "solution": 2
+        }
+      },
+      {
+        "folder": "mit_linear_algebra_md",
+        "files": 65,
+        "lines": 10280,
+        "chars": 676584,
+        "approx_tokens": 169146,
+        "short_files": 0,
+        "roles": {
+          "exam": 33,
+          "solution": 30,
+          "lecture": 2
+        }
+      }
+    ],
+    "total": {
+      "files": 200,
+      "lines": 37832,
+      "chars": 2178890,
+      "approx_tokens": 544723
+    }
+  },
+  "benchmark_items": 106,
+  "concept_tagging": {
+    "items": 36,
+    "micro_precision": 0.795,
+    "micro_recall": 0.795,
+    "micro_f1": 0.795,
+    "macro_precision": 0.874,
+    "macro_recall": 0.739,
+    "macro_f1": 0.751,
+    "mean_jaccard": 0.491,
+    "label_type": "keyword-derived silver labels"
+  },
+  "retrieval": {
+    "concept_filtered": {
+      "success_at_5": 1.0,
+      "mrr_at_5": 1.0,
+      "queries": 80
+    },
+    "exam_only": {
+      "success_at_5": 0.887,
+      "mrr_at_5": 0.694,
+      "queries": 80
+    },
+    "lecture_only": {
+      "success_at_5": 0.675,
+      "mrr_at_5": 0.558,
+      "queries": 80
+    },
+    "lexical": {
+      "success_at_5": 0.9,
+      "mrr_at_5": 0.802,
+      "queries": 80
+    }
+  },
+  "rag": {
+    "queries": 40,
+    "supported_rate": 0.975,
+    "mean_support_score": 0.945
+  },
+  "agent": {
+    "tasks": 144,
+    "format_compliance_rate": 1,
+    "concept_attribution_rate": 0.833,
+    "hint_no_full_solution_rate": 1,
+    "groundedness_proxy_rate": 0.826,
+    "api_error_count": 17,
+    "completed_response_rate": 0.882
+  },
+  "irt": {
+    "random": {
+      "weak_concept_coverage": 0.771,
+      "difficulty_match_error": 1.051,
+      "concept_diversity": 14.5,
+      "prerequisite_violation_rate": 0.833
+    },
+    "difficulty_only": {
+      "weak_concept_coverage": 0.521,
+      "difficulty_match_error": 0.363,
+      "concept_diversity": 9.25,
+      "prerequisite_violation_rate": 0.208
+    },
+    "graph_only": {
+      "weak_concept_coverage": 1.0,
+      "difficulty_match_error": 1.328,
+      "concept_diversity": 14.25,
+      "prerequisite_violation_rate": 0.979
+    },
+    "graph_irt": {
+      "weak_concept_coverage": 1.0,
+      "difficulty_match_error": 1.268,
+      "concept_diversity": 14.75,
+      "prerequisite_violation_rate": 0.896
+    }
+  },
+  "ablation": [
+    {
+      "condition": "Full system",
+      "concept_f1": 0.795,
+      "retrieval_mrr": 1.0,
+      "rag_support": 0.945,
+      "agent_quality": 0.886,
+      "adaptive_score": 1.0
+    },
+    {
+      "condition": "No concept graph",
+      "concept_f1": 0.795,
+      "retrieval_mrr": 0.802,
+      "rag_support": 0.865,
+      "agent_quality": 0.633,
+      "adaptive_score": 0.521
+    },
+    {
+      "condition": "No concept filter",
+      "concept_f1": 0.795,
+      "retrieval_mrr": 0.802,
+      "rag_support": 0.8949999999999999,
+      "agent_quality": 0.726,
+      "adaptive_score": 1.0
+    },
+    {
+      "condition": "No RAG grounding",
+      "concept_f1": 0.795,
+      "retrieval_mrr": 0.0,
+      "rag_support": 0.0,
+      "agent_quality": 0.75,
+      "adaptive_score": 1.0
+    },
+    {
+      "condition": "No IRT adaptation",
+      "concept_f1": 0.795,
+      "retrieval_mrr": 1.0,
+      "rag_support": 0.945,
+      "agent_quality": 0.916,
+      "adaptive_score": 1.0
+    }
+  ]
+}

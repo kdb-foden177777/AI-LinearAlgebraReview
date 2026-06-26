@@ -1,0 +1,22 @@
+{
+  "concept_filtered": {
+    "success_at_5": 1.0,
+    "mrr_at_5": 1.0,
+    "queries": 80
+  },
+  "exam_only": {
+    "success_at_5": 0.887,
+    "mrr_at_5": 0.694,
+    "queries": 80
+  },
+  "lecture_only": {
+    "success_at_5": 0.675,
+    "mrr_at_5": 0.558,
+    "queries": 80
+  },
+  "lexical": {
+    "success_at_5": 0.9,
+    "mrr_at_5": 0.802,
+    "queries": 80
+  }
+}

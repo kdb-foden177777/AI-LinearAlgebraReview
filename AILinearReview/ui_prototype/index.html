@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linear Algebra Adaptive Review</title>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(", "\\)"], ["$", "$"]],
+        displayMath: [["\\[", "\\]"], ["$$", "$$"]],
+        processEscapes: true
+      },
+      svg: { fontCache: "global" }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="publication-mode">
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand-block">
+        <p class="eyebrow">AI Linear Algebra Review</p>
+        <h1>Concept-Guided Adaptive Review Interface</h1>
+        <p class="subtitle">Closed-loop diagnosis, evidence-grounded feedback, and IRT-based item selection</p>
+      </div>
+      <div class="top-actions" aria-label="session controls">
+        <span class="metric-chip"><strong>200</strong> corpus files</span>
+        <span class="metric-chip"><strong>106</strong> benchmark items</span>
+        <span class="agent-status" id="agentStatus">Agent: checking</span>
+      </div>
+    </header>
+
+    <section class="workflow-strip" aria-label="adaptive loop">
+      <div class="workflow-step active" data-stage="graph"><span>1</span>Concept graph</div>
+      <div class="workflow-step" data-stage="retrieval"><span>2</span>Evidence retrieval</div>
+      <div class="workflow-step" data-stage="feedback"><span>3</span>Agent feedback</div>
+      <div class="workflow-step" data-stage="irt"><span>4</span>IRT selector</div>
+    </section>
+
+    <main class="workspace">
+      <aside class="panel left-panel" aria-label="review dashboard">
+        <section class="panel-section">
+          <div class="section-heading">
+            <h2>Learner State</h2>
+            <span class="status-pill">Final Review</span>
+          </div>
+          <div class="readiness-card">
+            <div>
+              <span class="metric-label">Exam Readiness</span>
+              <strong id="readinessScore">68%</strong>
+            </div>
+            <div class="progress-track" aria-hidden="true">
+              <span id="readinessBar"></span>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-heading compact">
+            <h2>Weak Concepts</h2>
+          </div>
+          <ul class="concept-list" id="conceptList"></ul>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-heading compact">
+            <h2>Adaptive Controls</h2>
+          </div>
+          <label class="field-label">Mode</label>
+          <div class="segmented" role="group" aria-label="review mode">
+            <button class="segment active" type="button" data-mode="diagnostic">Diagnose</button>
+            <button class="segment" type="button" data-mode="practice">Practice</button>
+            <button class="segment" type="button" data-mode="explain">Explain</button>
+          </div>
+          <label class="field-label slider-label" for="difficultyRange">
+            Target Difficulty <span id="difficultyValue">0.62</span>
+          </label>
+          <input id="difficultyRange" type="range" min="0" max="1" step="0.01" value="0.62">
+          <div class="control-note" id="selectionNote">Next item is selected by weak-concept overlap and target difficulty.</div>
+        </section>
+      </aside>
+
+      <section class="main-panel" aria-label="practice and dialogue">
+        <div class="tabs" role="tablist" aria-label="main views">
+          <button class="tab active" type="button" data-tab="practice">Practice Workspace</button>
+          <button class="tab" type="button" data-tab="dialogue">Dialogue Agent</button>
+        </div>
+
+        <section class="work-card tab-view active" id="practiceView">
+          <div class="card-heading">
+            <div>
+              <p class="eyebrow" id="itemSource">Recommended Item</p>
+              <h2 id="itemTitle">Loading item</h2>
+            </div>
+            <span class="difficulty-tag" id="itemDifficulty">IRT b = 0.00</span>
+          </div>
+
+          <div class="concept-chips" id="conceptChips" aria-label="active concepts">
+            <span>Active concepts</span>
+            <em>Loading concept labels</em>
+          </div>
+
+          <div class="question-box" id="questionBox"></div>
+
+          <label class="field-label" for="answerBox">Student Answer</label>
+          <textarea id="answerBox" rows="7"></textarea>
+
+          <div class="button-row">
+            <button class="primary-button" id="gradeButton" type="button">Submit and Grade</button>
+            <button class="secondary-button" id="hintButton" type="button">Ask for Hint</button>
+            <button class="secondary-button" id="nextButton" type="button">Next Item</button>
+          </div>
+
+          <div class="feedback-box" id="feedbackBox" aria-live="polite">
+            <div class="feedback-placeholder">
+              <strong>Pending agent evaluation</strong>
+              <p>Step grading, concept attribution, retrieved evidence, and next-action recommendation will appear here after submission.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="work-card tab-view" id="dialogueView">
+          <div class="card-heading">
+            <div>
+              <p class="eyebrow">Grounded Dialogue</p>
+              <h2>Dialogue Agent</h2>
+            </div>
+            <span class="difficulty-tag">RAG + Learner State</span>
+          </div>
+          <div class="chat-log" id="chatLog">
+            <div class="message agent system-note">
+              <strong>Agent</strong>
+              <p>No dialogue has been sent yet. Ask a question to call the grounded tutoring agent with the current item, evidence, review path, and learner model.</p>
+            </div>
+          </div>
+          <div class="chat-input-row">
+            <input id="chatInput" type="text" value="If the algebraic multiplicity is 2 but the geometric multiplicity is 1, what goes wrong?">
+            <button class="primary-button" id="sendButton" type="button">Send</button>
+          </div>
+        </section>
+      </section>
+
+      <aside class="panel right-panel" aria-label="evidence and review path">
+        <section class="panel-section">
+          <div class="section-heading">
+            <h2>Review Path</h2>
+            <span class="status-pill warm">Graph</span>
+          </div>
+          <ol class="path-list" id="pathList"></ol>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-heading compact">
+            <h2>Retrieved Evidence</h2>
+          </div>
+          <div id="evidenceList"></div>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-heading compact">
+            <h2>Learner Model</h2>
+          </div>
+          <dl class="state-grid">
+            <div>
+              <dt>ability θ</dt>
+              <dd id="thetaValue">0.31</dd>
+            </div>
+            <div>
+              <dt>evidence</dt>
+              <dd id="chunkValue">5</dd>
+            </div>
+            <div>
+              <dt>state conf.</dt>
+              <dd id="confidenceValue">0.84</dd>
+            </div>
+            <div>
+              <dt>next action</dt>
+              <dd id="nextAction">Remediate</dd>
+            </div>
+          </dl>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script src="app.js?v=20260626-paperui"></script>
+</body>
+</html>

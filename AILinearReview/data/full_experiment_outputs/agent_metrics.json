@@ -1,0 +1,38 @@
+{
+  "tasks": 144,
+  "completed_tasks": 144,
+  "api_error_count": 0,
+  "completed_response_rate": 1.0,
+  "format_compliance_rate": 1,
+  "concept_attribution_rate": 0.951,
+  "hint_no_full_solution_rate": 1,
+  "groundedness_proxy_rate": 0.944,
+  "by_action": {
+    "grade": {
+      "tasks": 48,
+      "completed_tasks": 48,
+      "api_error_count": 0,
+      "completed_response_rate": 1.0,
+      "concept_attribution_rate": 0.979,
+      "groundedness_proxy_rate": 0.979,
+      "rubric_format_rate": 1
+    },
+    "hint": {
+      "tasks": 48,
+      "completed_tasks": 48,
+      "api_error_count": 0,
+      "completed_response_rate": 1.0,
+      "concept_attribution_rate": 0.875,
+      "groundedness_proxy_rate": 0.854,
+      "no_full_solution_rate": 1
+    },
+    "chat": {
+      "tasks": 48,
+      "completed_tasks": 48,
+      "api_error_count": 0,
+      "completed_response_rate": 1.0,
+      "concept_attribution_rate": 1,
+      "groundedness_proxy_rate": 1
+    }
+  }
+}

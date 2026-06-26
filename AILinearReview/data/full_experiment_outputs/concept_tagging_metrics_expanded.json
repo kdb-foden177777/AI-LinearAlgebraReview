@@ -1,0 +1,13 @@
+{
+  "target_items": 80,
+  "completed_items": 80,
+  "api_error_items": 0,
+  "micro_precision": 0.377,
+  "micro_recall": 0.377,
+  "micro_f1": 0.377,
+  "macro_precision": 0.551,
+  "macro_recall": 0.523,
+  "macro_f1": 0.348,
+  "mean_jaccard": 0.324,
+  "label_type": "keyword-derived silver labels"
+}

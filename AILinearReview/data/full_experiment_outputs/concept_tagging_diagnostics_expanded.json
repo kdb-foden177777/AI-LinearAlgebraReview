@@ -1,0 +1,11 @@
+{
+  "items": 80,
+  "mean_silver_labels_per_item": 5.088,
+  "mean_predicted_labels_per_item": 14.287,
+  "mean_missing_labels_per_item": 0.388,
+  "mean_extra_labels_per_item": 9.588,
+  "exact_match_rate": 0,
+  "under_label_rate": 0.062,
+  "over_label_rate": 0.912,
+  "mean_jaccard_from_predictions": 0.324
+}

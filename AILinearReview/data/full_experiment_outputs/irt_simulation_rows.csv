@@ -1,0 +1,17 @@
+learner,condition,weak_concept_coverage,difficulty_match_error,item_diversity,concept_diversity,prerequisite_violation_rate
+weak_systems,random,0.5,1.727,12,15,2.5
+weak_systems,difficulty_only,0.5,0.96,12,7,0.75
+weak_systems,graph_only,1.0,1.92,12,15,2.667
+weak_systems,graph_irt,1.0,1.92,12,15,2.583
+mid_spectral,random,0.833,0.97,12,15,0.5
+mid_spectral,difficulty_only,0.083,0.147,12,7,0.0
+mid_spectral,graph_only,1.0,1.2,12,14,0.833
+mid_spectral,graph_irt,1.0,0.973,12,16,0.583
+advanced_ortho,random,0.75,0.52,12,13,0.333
+advanced_ortho,difficulty_only,0.5,0.12,12,16,0.083
+advanced_ortho,graph_only,1.0,0.753,12,13,0.417
+advanced_ortho,graph_irt,1.0,0.74,12,13,0.417
+broad_review,random,1.0,0.987,12,15,0.0
+broad_review,difficulty_only,1.0,0.227,12,7,0.0
+broad_review,graph_only,1.0,1.44,12,15,0.0
+broad_review,graph_irt,1.0,1.44,12,15,0.0

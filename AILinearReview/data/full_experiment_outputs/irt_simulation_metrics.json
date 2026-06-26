@@ -1,0 +1,26 @@
+{
+  "random": {
+    "weak_concept_coverage": 0.771,
+    "difficulty_match_error": 1.051,
+    "concept_diversity": 14.5,
+    "prerequisite_violation_rate": 0.833
+  },
+  "difficulty_only": {
+    "weak_concept_coverage": 0.521,
+    "difficulty_match_error": 0.363,
+    "concept_diversity": 9.25,
+    "prerequisite_violation_rate": 0.208
+  },
+  "graph_only": {
+    "weak_concept_coverage": 1.0,
+    "difficulty_match_error": 1.328,
+    "concept_diversity": 14.25,
+    "prerequisite_violation_rate": 0.979
+  },
+  "graph_irt": {
+    "weak_concept_coverage": 1.0,
+    "difficulty_match_error": 1.268,
+    "concept_diversity": 14.75,
+    "prerequisite_violation_rate": 0.896
+  }
+}
